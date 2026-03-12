@@ -1,6 +1,6 @@
 # Hormuz Crisis Intelligence Platform
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](dashboard-v2.png)
 
 Real-time maritime intelligence dashboard for the 2026 Strait of Hormuz crisis. Tracks shipping flow disruption, supply chain impacts, conflict events, and infrastructure damage across the Persian Gulf, Red Sea, and Caspian Sea.
 
