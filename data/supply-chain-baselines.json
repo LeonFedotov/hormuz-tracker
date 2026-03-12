@@ -1,0 +1,138 @@
+{
+  "_meta": {
+    "generatedAt": "2026-03-12T09:15:00Z",
+    "source": "research/supply-chain-impacts.md (compiled 2026-03-10)",
+    "description": "Static reference baselines for supply chain impact calculations. All figures are pre-crisis values unless noted."
+  },
+  "oil": {
+    "baseline_bbl_per_day": 20000000,
+    "global_petroleum_share_pct": 20,
+    "seaborne_oil_trade_share_pct": 25,
+    "bypass_capacity_theoretical_bbl_per_day": 6500000,
+    "bypass_capacity_actual_bbl_per_day": 2600000,
+    "fujairah_pipeline_capacity_bbl_per_day": 1800000,
+    "fujairah_pipeline_utilization_bbl_per_day": 1100000,
+    "east_west_pipeline_capacity_bbl_per_day": 5000000,
+    "east_west_pipeline_utilization_bbl_per_day": 1400000,
+    "exporters_through_hormuz_mbd": {
+      "saudi_arabia": { "min": 6.0, "max": 6.5, "notes": "Has Red Sea bypass via East-West pipeline" },
+      "iraq": { "min": 3.3, "max": 3.5, "notes": "Nearly 100% dependent on Hormuz" },
+      "uae": { "min": 2.5, "max": 3.0, "notes": "Has Fujairah bypass pipeline" },
+      "kuwait": { "min": 1.5, "max": 1.8, "notes": "100% dependent on Hormuz" },
+      "iran": { "min": 1.3, "max": 1.7, "notes": "Shadow fleet still partially operating" },
+      "qatar": { "min": 0.5, "max": 0.6, "notes": "Plus massive LNG exports" }
+    },
+    "price_scenarios": {
+      "pre_crisis_usd_bbl": 63,
+      "peak_usd_bbl": 119.50,
+      "projection_4_month_disruption_usd_bbl": 135,
+      "projection_no_resumption_end_march_usd_bbl": 150
+    }
+  },
+  "lng": {
+    "baseline_bcm_per_year": 110,
+    "global_lng_trade_share_pct": 20,
+    "qatar_exports_bcm": 110,
+    "uae_exports_bcm": 9,
+    "qatar_hormuz_dependency_pct": 93,
+    "uae_hormuz_dependency_pct": 96,
+    "destinations": {
+      "china_bcm": 26.5,
+      "china_share_pct": 24,
+      "india_bcm": 19.9,
+      "india_share_pct": 18,
+      "europe_bcm": 14.6,
+      "europe_share_pct": 13,
+      "south_korea_bcm": 12.8,
+      "south_korea_share_pct": 12,
+      "other_asia_bcm": 36,
+      "other_asia_share_pct": 33
+    }
+  },
+  "petrochemicals": {
+    "sulfur_global_seaborne_share_pct": 50,
+    "urea_global_export_share_pct": 49,
+    "ammonia_global_export_share_pct": 30,
+    "iran_urea_exports_mt_per_month": { "min": 350000, "max": 400000 },
+    "arab_gulf_urea_exports_mt_per_month": 1500000,
+    "notes": "QatarEnergy halted all downstream: urea, polymers, methanol as of Mar 3"
+  },
+  "semiconductors": {
+    "tsmc_chemical_stockpile_days": { "min": 30, "max": 60 },
+    "qatar_lng_to_taiwan_pct": 30,
+    "tsmc_electricity_share_of_taiwan_pct": { "min": 9, "max": 12.5 },
+    "sulfuric_acid_market_usd_millions": 338,
+    "sulfur_from_petroleum_pct": 92,
+    "notes": "LNG-to-power chain is more acute risk than chemical feedstock. BASF building semiconductor-grade sulfuric acid plant in Ludwigshafen (operational ~2027)."
+  },
+  "food": {
+    "dubai_fresh_supply_days": 10,
+    "gulf_food_import_pct": 85,
+    "gulf_cereal_import_pct": 90,
+    "hormuz_food_transit_pct": 70,
+    "stranded_containers": 450000,
+    "stranded_ships": 150,
+    "container_traffic_per_year": 26000000,
+    "notes": "Maersk, CMA CGM, Hapag-Lloyd suspended all Gulf transits."
+  },
+  "fertilizer": {
+    "gulf_urea_global_export_share_pct": 49,
+    "gulf_ammonia_global_export_share_pct": 30,
+    "urea_price_increase_pct": 35,
+    "brazil_urea_import_dependency_pct": 100,
+    "brazil_hormuz_transit_share_pct": 40,
+    "india_gulf_urea_dependency_pct": 50,
+    "spring_planting_deadline": "2026-04-15",
+    "disruption_minimum_weeks": 4,
+    "notes": "Disruption coincides with Northern Hemisphere spring planting. War damage to plants may extend disruption beyond strait reopening."
+  },
+  "aviation": {
+    "middle_east_jet_fuel_exports_bbl_per_day": 1000000,
+    "global_jet_fuel_share_pct": 17,
+    "jet_fuel_price_increase_pct": 33,
+    "jet_fuel_price_usd_per_litre": 1.17,
+    "jet_fuel_price_pre_crisis_usd_per_litre": 0.88,
+    "european_gulf_jet_fuel_dependency_pct": { "min": 25, "max": 30 },
+    "airline_fuel_budget_share_pct": { "min": 30, "max": 40 },
+    "fare_increase_projection_pct": 20
+  },
+  "european_energy": {
+    "lng_share_of_gas_supply_pct": 25,
+    "hormuz_lng_share_of_european_imports_pct": 10,
+    "gas_storage_bcm_current": 46,
+    "gas_storage_bcm_normal": 77,
+    "ttf_price_surge_pct": 76,
+    "most_exposed_countries": ["Italy", "Belgium", "Poland"]
+  },
+  "india_pakistan": {
+    "india_crude_hormuz_pct": 50,
+    "india_gas_hormuz_pct": 60,
+    "india_lng_qatar_uae_pct": 53,
+    "pakistan_lng_qatar_uae_pct": 99,
+    "pakistan_oil_import_pct": 80
+  },
+  "traffic_baselines": {
+    "vessel_transits_per_day": 153,
+    "cargo_transits_per_day": 107,
+    "severity_levels": [
+      { "level": 0, "label": "Normal", "transits_min": 130, "transits_max": 180, "oil_mbd_min": 18, "oil_mbd_max": 21 },
+      { "level": 1, "label": "Elevated", "transits_min": 100, "transits_max": 130, "oil_mbd_min": 15, "oil_mbd_max": 18 },
+      { "level": 2, "label": "Partial Disruption", "transits_min": 50, "transits_max": 100, "oil_mbd_min": 8, "oil_mbd_max": 15 },
+      { "level": 3, "label": "Severe", "transits_min": 10, "transits_max": 50, "oil_mbd_min": 2, "oil_mbd_max": 8 },
+      { "level": 4, "label": "Critical", "transits_min": 0, "transits_max": 10, "oil_mbd_min": 0, "oil_mbd_max": 2 }
+    ]
+  },
+  "scoring": {
+    "composite_disruption_index": {
+      "formula": "CDI = (1 - transits/baseline) * 30 + min(insurance_multiplier/10, 1) * 15 + min(oil_price_deviation/50%, 1) * 25 + min(lng_price_deviation/100%, 1) * 20 + (1 - bypass_utilization/bypass_capacity) * 10",
+      "max_score": 100,
+      "weights": {
+        "vessel_transit": 30,
+        "insurance_premium": 15,
+        "oil_price_deviation": 25,
+        "lng_price_deviation": 20,
+        "bypass_utilization": 10
+      }
+    }
+  }
+}

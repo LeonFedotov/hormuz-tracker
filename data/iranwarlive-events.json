@@ -1,0 +1,128 @@
+[
+  {
+    "id": "liveuamap:incident:cefadd573621",
+    "type": "incident",
+    "lat": 26.5,
+    "lon": 56.5,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Explosion — Strait of Hormuz",
+    "description": "On 2026-03-12, a Explosion targeted Two foreign vessels in Strait of Hormuz, resulting in 0 casualties.",
+    "url": "https://www.bbc.com/news/articles/cr5l988qr47o?at_medium=RSS&at_campaign=rss",
+    "data": {
+      "location": "Strait of Hormuz",
+      "casualties": 0,
+      "originalType": "Explosion",
+      "originalId": "IRW-V4-1773306127983-0"
+    }
+  },
+  {
+    "id": "liveuamap:incident:5546981ea4ec",
+    "type": "incident",
+    "lat": 33.88,
+    "lon": 35.48,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Air Strike — Beirut’s Ramlet al-Baida seafront, Lebanon",
+    "description": "On 2026-03-12, a Air Strike targeted Displaced persons near Beirut seafront in Beirut’s Ramlet al-Baida seafront, Lebanon, resulting in 8 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight?traffic_source=rss",
+    "data": {
+      "location": "Beirut’s Ramlet al-Baida seafront, Lebanon",
+      "casualties": 8,
+      "originalType": "Air Strike",
+      "originalId": "IRW-V4-1773306127983-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:5a86ca88b075",
+    "type": "incident",
+    "lat": 26.07,
+    "lon": 50.55,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Missile/Drone Attack — Bahrain (fuel tanks)",
+    "description": "On 2026-03-12, a Missile/Drone Attack targeted Fuel tanks in Bahrain (fuel tanks), resulting in 0 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
+    "data": {
+      "location": "Bahrain (fuel tanks)",
+      "casualties": 0,
+      "originalType": "Missile/Drone Attack",
+      "originalId": "IRW-V4-1773306127983-2"
+    }
+  },
+  {
+    "id": "liveuamap:incident:74d33b984f85",
+    "type": "incident",
+    "lat": 23.88,
+    "lon": 45.07,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Missile/Drone Attack — Saudi Arabia (oilfield)",
+    "description": "On 2026-03-12, a Missile/Drone Attack targeted Oilfield in Saudi Arabia (oilfield), resulting in 0 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
+    "data": {
+      "location": "Saudi Arabia (oilfield)",
+      "casualties": 0,
+      "originalType": "Missile/Drone Attack",
+      "originalId": "IRW-V4-1773306127983-3"
+    }
+  },
+  {
+    "id": "liveuamap:incident:c2b520f98f0f",
+    "type": "incident",
+    "lat": 30.03,
+    "lon": 47.92,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Explosive-laden boat attack — Iraqi waters (off the coast)",
+    "description": "On 2026-03-12, a Explosive-laden boat attack targeted Two oil tankers in Iraqi waters (off the coast), resulting in 1 casualties.",
+    "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html",
+    "data": {
+      "location": "Iraqi waters (off the coast)",
+      "casualties": 1,
+      "originalType": "Explosive-laden boat attack",
+      "originalId": "IRW-V4-1773306127983-5"
+    }
+  },
+  {
+    "id": "liveuamap:incident:c072fabc0bf8",
+    "type": "incident",
+    "lat": 31.5,
+    "lon": 34.46,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Air Strike — Al-Ansar refugee camp, Gaza",
+    "description": "On 2026-03-12, a Air Strike targeted Tents sheltering displaced Palestinians in Al-Ansar refugee camp, Gaza, resulting in 0 casualties.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fire-erupts-at-gaza-camp-after-israeli-attack-hits-tents?traffic_source=rss",
+    "data": {
+      "location": "Al-Ansar refugee camp, Gaza",
+      "casualties": 0,
+      "originalType": "Air Strike",
+      "originalId": "IRW-V4-1773306127983-6"
+    }
+  },
+  {
+    "id": "liveuamap:incident:421be5f3bf63",
+    "type": "incident",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Bombing — Iran (Shajareh Tayyebeh Elementary School)",
+    "description": "On 2026-03-12, a Bombing targeted Shajareh Tayyebeh Elementary School in Iran (Shajareh Tayyebeh Elementary School), resulting in 170 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/who-bombed-the-iranian-girls-school-killing-more-than-170-what-we-know?traffic_source=rss",
+    "data": {
+      "location": "Iran (Shajareh Tayyebeh Elementary School)",
+      "casualties": 170,
+      "originalType": "Bombing",
+      "originalId": "IRW-V4-1773306127983-7"
+    }
+  }
+]

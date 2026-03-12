@@ -1,0 +1,579 @@
+{
+  "_meta": {
+    "source": "reddit",
+    "fetchedAt": "2026-03-12T09:57:38.871Z",
+    "subreddits": [
+      "CredibleDefense",
+      "geopolitics",
+      "OSINT",
+      "CombatFootage",
+      "worldnews"
+    ],
+    "totalPosts": 33,
+    "incidents": 8,
+    "geoTagged": 7
+  },
+  "events": [
+    {
+      "id": "reddit:1rr1y5g",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773253650000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran Conflict Megathread #6",
+      "description": "Read the damn rules people. In recent days we've seen a huge influx of first time posters which bring witty one-liners, puns, gotcha comments and other low effort nonsense. All of that will be removed without warning and if your humour is in particular poor taste you will be temp banned.\n\nCheers,",
+      "url": "https://reddit.com/r/CredibleDefense/comments/1rr1y5g/iran_conflict_megathread_6/",
+      "data": {
+        "subreddit": "CredibleDefense",
+        "score": 155,
+        "num_comments": 425
+      }
+    },
+    {
+      "id": "reddit:1rp56lt",
+      "type": "incident",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773074285000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "What would be the rationale and objectives for a hypothetical US invasion of Iran?",
+      "description": "**Question**  \nGiven that there has been much[ speculation](https://youtu.be/6WdNzSiGlxc?si=KtY5SqFU6A9YMFmj) and[ discussions](https://youtu.be/3_tMu-USkjI?si=_LBdye0Nl5GwqKFP) of a possible US invasion of Iran in the coming days and weeks, what would be the rationale and objectives for the US to mount such an invasion?\n\n**Background**  \nIt would seem that the[ initial goal](https://www.aljazeera.com/news/2026/3/4/trumps-endgame-in-iran-regime-change-without-us-boots-on-the-ground) when Preside",
+      "url": "https://reddit.com/r/CredibleDefense/comments/1rp56lt/what_would_be_the_rationale_and_objectives_for_a/",
+      "data": {
+        "subreddit": "CredibleDefense",
+        "score": 62,
+        "num_comments": 101
+      }
+    },
+    {
+      "id": "reddit:1rp18dq",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773065422000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "DW News explainer: how AI could compress the military “kill chain” in the Iran conflict",
+      "description": "I produced this short explainer for DW News about how AI-assisted systems are being used in the Iran war to process surveillance data and help identify targets. The video also looks at the debate around accountability if an AI-assisted targeting process contributes to a mistake. Curious what this sub thinks about where current systems actually sit in the loop of decision support vs meaningful autonomy.\n\nVideo: [https://youtu.be/9NAUvsABm3k](https://youtu.be/9NAUvsABm3k)",
+      "url": "https://reddit.com/r/CredibleDefense/comments/1rp18dq/dw_news_explainer_how_ai_could_compress_the/",
+      "data": {
+        "subreddit": "CredibleDefense",
+        "score": 38,
+        "num_comments": 15
+      }
+    },
+    {
+      "id": "reddit:1rof3vx",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773000747000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran Conflict Megathread #5",
+      "description": "Read the damn rules people. In recent days we've seen a **huge** influx of first time posters which bring witty one-liners, puns, *gotcha* comments and other low effort nonsense. All of that will be removed without warning and if your humour is in particular poor taste you will be temp banned.\n\nCheers,",
+      "url": "https://reddit.com/r/CredibleDefense/comments/1rof3vx/iran_conflict_megathread_5/",
+      "data": {
+        "subreddit": "CredibleDefense",
+        "score": 205,
+        "num_comments": 1008
+      }
+    },
+    {
+      "id": "reddit:1rm7d9c",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1772781564000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran Conflict Megathread #4",
+      "description": "A reminder on the rules to all new users to this subreddit: we expect a *high* standard of posting and due to increased volumes right now we are more ban happy than usual. If you do not have anything meaningful to contribute, please refrain from doing so. This includes posting vibes and automod catches most of your comments anyway. **We are significantly more ban happy at this stage**. Our appeals are open, however.\n\nRegular users: posting standards are reduced in the sense that *credible* rumou",
+      "url": "https://reddit.com/r/CredibleDefense/comments/1rm7d9c/iran_conflict_megathread_4/",
+      "data": {
+        "subreddit": "CredibleDefense",
+        "score": 137,
+        "num_comments": 1219
+      }
+    },
+    {
+      "id": "reddit:1rrm2b2",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773307661000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Trump’s Board of Peace ‘on pause’ during Iran war",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rrm2b2/trumps_board_of_peace_on_pause_during_iran_war/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 6,
+        "num_comments": 2
+      }
+    },
+    {
+      "id": "reddit:1rrko55",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773302335000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Russian oil revenue soars as prices spike amid US-Iran war, analysis finds",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rrko55/russian_oil_revenue_soars_as_prices_spike_amid/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 18,
+        "num_comments": 3
+      }
+    },
+    {
+      "id": "reddit:1rrkb7r",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773300936000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Exclusive: US intelligence says Iran government is not at risk of collapse, say sources",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rrkb7r/exclusive_us_intelligence_says_iran_government_is/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 6,
+        "num_comments": 5
+      }
+    },
+    {
+      "id": "reddit:1rr852j",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773266908000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "How Putin Views Trump’s War in Iran",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr852j/how_putin_views_trumps_war_in_iran/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 4,
+        "num_comments": 11
+      }
+    },
+    {
+      "id": "reddit:1rr6lb5",
+      "type": "incident",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773263509000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "FBI warns Iran could attack California with drones",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr6lb5/fbi_warns_iran_could_attack_california_with_drones/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 171,
+        "num_comments": 158
+      }
+    },
+    {
+      "id": "reddit:1rr5llo",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773261357000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "How America’s Oil and Gas Dominance Has Weakened Iran",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr5llo/how_americas_oil_and_gas_dominance_has_weakened/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 0,
+        "num_comments": 17
+      }
+    },
+    {
+      "id": "reddit:1rr4cr2",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773258722000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran says it will target US-Israeli economic, banking interests in region",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr4cr2/iran_says_it_will_target_usisraeli_economic/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 72,
+        "num_comments": 7
+      }
+    },
+    {
+      "id": "reddit:1rr3cbr",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773256570000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "How Donald Trump’s Iran War Is Destabilizing the Gulf",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr3cbr/how_donald_trumps_iran_war_is_destabilizing_the/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 10,
+        "num_comments": 19
+      }
+    },
+    {
+      "id": "reddit:1rr37pu",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773256297000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Israel Eyes Red Sea Base in Somaliland to Fight Iran-Backed Houthis",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr37pu/israel_eyes_red_sea_base_in_somaliland_to_fight/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 70,
+        "num_comments": 23
+      }
+    },
+    {
+      "id": "reddit:1rr0oxg",
+      "type": "incident",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773251035000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Reuters - Iran has laid about a dozen mines in Strait of Hormuz, sources say",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr0oxg/reuters_iran_has_laid_about_a_dozen_mines_in/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 575,
+        "num_comments": 193
+      }
+    },
+    {
+      "id": "reddit:1rr04t6",
+      "type": "incident",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773249867000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "China’s economic statecraft has been exposed by US attacks on Iran and Venezuela",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rr04t6/chinas_economic_statecraft_has_been_exposed_by_us/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 0,
+        "num_comments": 4
+      }
+    },
+    {
+      "id": "reddit:1rqzehv",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773248371000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Opinions of world leaders on Iran",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqzehv/opinions_of_world_leaders_on_iran/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 4,
+        "num_comments": 4
+      }
+    },
+    {
+      "id": "reddit:1rqz6t7",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773247911000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Khamenei advisor warns new Iran supreme leader deadlier | The Jerusalem Post",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqz6t7/khamenei_advisor_warns_new_iran_supreme_leader/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 6,
+        "num_comments": 8
+      }
+    },
+    {
+      "id": "reddit:1rqypdi",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773246884000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Trump: \"In Iran non resta più niente da colpire, la guerra finirà presto\"",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqypdi/trump_in_iran_non_resta_più_niente_da_colpire_la/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 0,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1rqwgiy",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773241934000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran war has blocked the Strait of Hormuz, a vital oil chokepoint. Reopening it is a big challenge",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqwgiy/iran_war_has_blocked_the_strait_of_hormuz_a_vital/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 139,
+        "num_comments": 35
+      }
+    },
+    {
+      "id": "reddit:1rqus6i",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773238173000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran’s Drone Advantage: The Pentagon Copied Tehran’s Technology but Is Still Struggling to Keep Up",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqus6i/irans_drone_advantage_the_pentagon_copied_tehrans/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 30,
+        "num_comments": 8
+      }
+    },
+    {
+      "id": "reddit:1rqul3v",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773237717000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "The Curse of Middle-Sized Wars: In Iran, Trump Risks Falling Into a Familiar Trap",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqul3v/the_curse_of_middlesized_wars_in_iran_trump_risks/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 28,
+        "num_comments": 3
+      }
+    },
+    {
+      "id": "reddit:1rqs3u8",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773231266000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "The World Needs These Two Middle East Pipelines Now More Than Ever: The blockage in the Strait of Hormuz has suddenly made Saudi Arabia’s East-West pipeline one of the most critical pieces of infrastructure in the world",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqs3u8/the_world_needs_these_two_middle_east_pipelines/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 31,
+        "num_comments": 26
+      }
+    },
+    {
+      "id": "reddit:1rqruzl",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773230576000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqruzl/iran_sends_millions_of_oil_barrels_to_china/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 503,
+        "num_comments": 125
+      }
+    },
+    {
+      "id": "reddit:1rqr8un",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773228779000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "How Lindsey Graham got Trump to yes on Iran",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqr8un/how_lindsey_graham_got_trump_to_yes_on_iran/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 71,
+        "num_comments": 13
+      }
+    },
+    {
+      "id": "reddit:1rqowrw",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773220761000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Russia told Trump it isn't sharing US military asset info with Iran, says Witkoff",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqowrw/russia_told_trump_it_isnt_sharing_us_military/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 118,
+        "num_comments": 53
+      }
+    },
+    {
+      "id": "reddit:1rqotu7",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773220450000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "After initially voicing support, Trump says he doesn’t want Kurds to enter Iran war",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqotu7/after_initially_voicing_support_trump_says_he/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 83,
+        "num_comments": 40
+      }
+    },
+    {
+      "id": "reddit:1rqnfcx",
+      "type": "news",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773215106000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "If Russia Wants To Stay On Washington's Good Side, Why Help Iran Target US Forces?",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqnfcx/if_russia_wants_to_stay_on_washingtons_good_side/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 27,
+        "num_comments": 47
+      }
+    },
+    {
+      "id": "reddit:1rqf6od",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773190019000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "US Navy tells shipping industry Hormuz escorts not possible for now",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rqf6od/us_navy_tells_shipping_industry_hormuz_escorts/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 527,
+        "num_comments": 160
+      }
+    },
+    {
+      "id": "reddit:1rq7faa",
+      "type": "incident",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773172377000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "US seeing signs that Iran is preparing to deploy mines in Strait of Hormuz — report",
+      "description": "",
+      "url": "https://reddit.com/r/geopolitics/comments/1rq7faa/us_seeing_signs_that_iran_is_preparing_to_deploy/",
+      "data": {
+        "subreddit": "geopolitics",
+        "score": 382,
+        "num_comments": 120
+      }
+    },
+    {
+      "id": "reddit:1rpnvlz",
+      "type": "incident",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1773118724000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Iran says oil blockade will continue until attacks end, Trump threatens to hit harder",
+      "description": "",
+      "url": "https://reddit.com/r/worldnews/comments/1rpnvlz/iran_says_oil_blockade_will_continue_until/",
+      "data": {
+        "subreddit": "worldnews",
+        "score": 292,
+        "num_comments": 65
+      }
+    },
+    {
+      "id": "reddit:1rpdamh",
+      "type": "incident",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773091527000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Greek shipping tycoon defies Hormuz blockade",
+      "description": "",
+      "url": "https://reddit.com/r/worldnews/comments/1rpdamh/greek_shipping_tycoon_defies_hormuz_blockade/",
+      "data": {
+        "subreddit": "worldnews",
+        "score": 790,
+        "num_comments": 147
+      }
+    },
+    {
+      "id": "reddit:1rne8eq",
+      "type": "incident",
+      "lat": null,
+      "lon": null,
+      "timestamp": 1772900885000,
+      "source": "reddit",
+      "confidence": "low",
+      "title": "Cuba Suffers Another Massive Blackout as U.S. Oil Blockade Worsens Humanitarian Crisis",
+      "description": "",
+      "url": "https://reddit.com/r/worldnews/comments/1rne8eq/cuba_suffers_another_massive_blackout_as_us_oil/",
+      "data": {
+        "subreddit": "worldnews",
+        "score": 925,
+        "num_comments": 121
+      }
+    }
+  ]
+}

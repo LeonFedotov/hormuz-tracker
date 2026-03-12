@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "liveuamap:incident:cefadd573621",
+    "type": "incident",
+    "lat": 26.5,
+    "lon": 56.5,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Explosion — Strait of Hormuz",
+    "description": "On 2026-03-12, a Explosion targeted Two foreign vessels in Strait of Hormuz, resulting in 0 casualties.",
+    "url": "https://www.bbc.com/news/articles/cr5l988qr47o?at_medium=RSS&at_campaign=rss",
+    "data": {
+      "location": "Strait of Hormuz",
+      "casualties": 0,
+      "originalType": "Explosion",
+      "originalId": "IRW-V4-1773306127983-0"
+    }
+  },
+  {
+    "id": "liveuamap:incident:5546981ea4ec",
+    "type": "incident",
+    "lat": 33.88,
+    "lon": 35.48,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Air Strike — Beirut’s Ramlet al-Baida seafront, Lebanon",
+    "description": "On 2026-03-12, a Air Strike targeted Displaced persons near Beirut seafront in Beirut’s Ramlet al-Baida seafront, Lebanon, resulting in 8 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight?traffic_source=rss",
+    "data": {
+      "location": "Beirut’s Ramlet al-Baida seafront, Lebanon",
+      "casualties": 8,
+      "originalType": "Air Strike",
+      "originalId": "IRW-V4-1773306127983-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:5a86ca88b075",
+    "type": "incident",
+    "lat": 26.07,
+    "lon": 50.55,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Missile/Drone Attack — Bahrain (fuel tanks)",
+    "description": "On 2026-03-12, a Missile/Drone Attack targeted Fuel tanks in Bahrain (fuel tanks), resulting in 0 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
+    "data": {
+      "location": "Bahrain (fuel tanks)",
+      "casualties": 0,
+      "originalType": "Missile/Drone Attack",
+      "originalId": "IRW-V4-1773306127983-2"
+    }
+  },
+  {
+    "id": "liveuamap:incident:74d33b984f85",
+    "type": "incident",
+    "lat": 23.88,
+    "lon": 45.07,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Missile/Drone Attack — Saudi Arabia (oilfield)",
+    "description": "On 2026-03-12, a Missile/Drone Attack targeted Oilfield in Saudi Arabia (oilfield), resulting in 0 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
+    "data": {
+      "location": "Saudi Arabia (oilfield)",
+      "casualties": 0,
+      "originalType": "Missile/Drone Attack",
+      "originalId": "IRW-V4-1773306127983-3"
+    }
+  },
+  {
+    "id": "liveuamap:incident:c2b520f98f0f",
+    "type": "incident",
+    "lat": 30.03,
+    "lon": 47.92,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Explosive-laden boat attack — Iraqi waters (off the coast)",
+    "description": "On 2026-03-12, a Explosive-laden boat attack targeted Two oil tankers in Iraqi waters (off the coast), resulting in 1 casualties.",
+    "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html",
+    "data": {
+      "location": "Iraqi waters (off the coast)",
+      "casualties": 1,
+      "originalType": "Explosive-laden boat attack",
+      "originalId": "IRW-V4-1773306127983-5"
+    }
+  },
+  {
+    "id": "liveuamap:incident:c072fabc0bf8",
+    "type": "incident",
+    "lat": 31.5,
+    "lon": 34.46,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Air Strike — Al-Ansar refugee camp, Gaza",
+    "description": "On 2026-03-12, a Air Strike targeted Tents sheltering displaced Palestinians in Al-Ansar refugee camp, Gaza, resulting in 0 casualties.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fire-erupts-at-gaza-camp-after-israeli-attack-hits-tents?traffic_source=rss",
+    "data": {
+      "location": "Al-Ansar refugee camp, Gaza",
+      "casualties": 0,
+      "originalType": "Air Strike",
+      "originalId": "IRW-V4-1773306127983-6"
+    }
+  },
+  {
+    "id": "liveuamap:incident:421be5f3bf63",
+    "type": "incident",
+    "lat": 35.69,
+    "lon": 51.39,
+    "timestamp": 1773306043919,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Bombing — Iran (Shajareh Tayyebeh Elementary School)",
+    "description": "On 2026-03-12, a Bombing targeted Shajareh Tayyebeh Elementary School in Iran (Shajareh Tayyebeh Elementary School), resulting in 170 casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/who-bombed-the-iranian-girls-school-killing-more-than-170-what-we-know?traffic_source=rss",
+    "data": {
+      "location": "Iran (Shajareh Tayyebeh Elementary School)",
+      "casualties": 170,
+      "originalType": "Bombing",
+      "originalId": "IRW-V4-1773306127983-7"
+    }
+  },
+  {
+    "id": "liveuamap:infrastructure_damage:67a120ff5e17",
+    "type": "infrastructure_damage",
+    "lat": 26.61601,
+    "lon": 56.32416,
+    "timestamp": 1773305940000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Oil prices rise 6% and trade above $97.5 a barrel",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-08-oil-prices-rise-6-and-trade-above-975-a-barrel",
+    "icon": "natural_resource-1",
+    "data": {
+      "liveuamapId": 22828270,
+      "location": "Hormuz Strait",
+      "catId": 57,
+      "colorId": 1,
+      "originalSource": "https://x.com/AlArabiya_Brk/status/2032018679903244312",
+      "picpath": "natural_resource-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:6d154bb9cdfc",
+    "type": "incident",
+    "lat": 25.06206,
+    "lon": 55.13085,
+    "timestamp": 1773305580000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Dubai authorities are responding to a minor incident caused by debris from a successful interception that fell onto the façade of a building on Sheikh Zayed Road. No injuries were reported",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-08-dubai-authorities-are-responding-to-a-minor-incident",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828261,
+      "location": "Dubai",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://x.com/DXBMediaOffice/status/2032017224182215052",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "news:al_jazeera:31186ca5f363",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773304247000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Iran war: What is happening on day 13 of US-Israel attacks?",
+    "description": "Cyberattacks, tensions in the Strait of Hormuz and rising oil prices are deepening the global consequences of the war.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/iran-war-what-is-happening-on-day-13-of-us-israel-attacks?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:708cfa8f5ce2",
+    "type": "incident",
+    "lat": 25.19596,
+    "lon": 55.31977,
+    "timestamp": 1773303900000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "UAE air defenses intercept 6 ballistic missiles, 7 cruise missiles, and 39 drones",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-08-uae-air-defenses-intercept-6-ballistic-missiles",
+    "icon": "aa-6",
+    "data": {
+      "liveuamapId": 22828267,
+      "location": "Dubai, Dubai",
+      "catId": 42,
+      "colorId": 6,
+      "originalSource": "https://x.com/aletihadae/status/2032010117550330090",
+      "picpath": "aa-6"
+    }
+  },
+  {
+    "id": "liveuamap:incident:9b0b41d1ac8e",
+    "type": "incident",
+    "lat": 25.21186,
+    "lon": 55.27325,
+    "timestamp": 1773303720000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Dubai authorities are responding to a minor drone incident in the Al Bada’a area. No injuries have been reported",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-08-dubai-authorities-are-responding-to-a-minor-drone",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828264,
+      "location": "Dubai, Dubai",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://x.com/DXBMediaOffice/status/2032009273866383512",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "news:al_jazeera:bfdbdb116ef9",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773303698000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Southeast Asia shuts offices, limits travel as oil crisis deepens",
+    "description": "Countries such as Indonesia and Vietnam heavily depend on fuel imports and have limited energy reserves.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/southeast-asia-shuts-offices-limits-travel-as-oil-crisis-deepens?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:95ca68a7df57",
+    "type": "incident",
+    "lat": 26.26542,
+    "lon": 50.6365,
+    "timestamp": 1773303180000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Sounds of interception heard in response to aerial threats over Manama",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-08-sounds-of-interception-heard-in-response-to-aerial",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22828269,
+      "location": "Muharraq Governorate, Bahrain",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://x.com/AlArabiya_Brk/status/2032007173337673921",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "news:al_jazeera:6eabd7b7f4d1",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773303149000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "France walks ‘fine line’ as US-Israel war on Iran escalates",
+    "description": "President Macron has criticised the onslaught and questioned the war&#039;s legality but ultimately blamed Iran.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/france-walks-a-fine-line-as-war-in-us-israel-war-on-iran-escalates?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:835619c04e82",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773302942000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Analysis: The war on Iran is at a crossroads",
+    "description": "Iran is raising the costs of a continued war, for the US and Gulf nations. But could it — and the US — escalate further?",
+    "url": "https://www.aljazeera.com/news/2026/3/12/analysis-the-war-on-iran-is-at-a-crossroads?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:11c3eecbcd16",
+    "type": "incident",
+    "lat": 29.53915,
+    "lon": 52.58709,
+    "timestamp": 1773302760000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Iranian media: Air base in Shiraz, southern Iran, targeted twice this morning",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-08-iranian-media-air-base-in-shiraz-southern-iran",
+    "icon": "bomb-10",
+    "data": {
+      "liveuamapId": 22828271,
+      "location": "Fars Province, Iran",
+      "catId": 27,
+      "colorId": 10,
+      "originalSource": "https://x.com/AlArabiya_Brk/status/2032005214207619532",
+      "picpath": "bomb-10"
+    }
+  },
+  {
+    "id": "reddit:1rrko55",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773302335000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Russian oil revenue soars as prices spike amid US-Iran war, analysis finds",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rrko55/russian_oil_revenue_soars_as_prices_spike_amid/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 13,
+      "num_comments": 3
+    }
+  },
+  {
+    "id": "news:al_jazeera:5bd9569cfc4f",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773301989000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "‘A US military victory in Iran without a political one is not a victory’",
+    "description": "‘This is not a war about whose military is better, bigger or more powerful.’",
+    "url": "https://www.aljazeera.com/video/quotable/2026/3/12/a-us-military-victory-in-iran-without-a-political-one-is-not-a?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:4828e9e5c5ab",
+    "type": "incident",
+    "lat": 25.1941,
+    "lon": 55.32972,
+    "timestamp": 1773301380000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "New drones raid reported in Dubai",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-07-new-drones-raid-reported-in-dubai",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828236,
+      "location": "Dubai, Dubai",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://t.me/supernova_plus/49478",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "news:al_jazeera:6a548b5178ca",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773301344000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "In the US-Israeli war on Iran, who will run out of missiles first?",
+    "description": "Are there enough interceptor missiles to defeat Iran’s response to the US and Israel&#039;s attacks?",
+    "url": "https://www.aljazeera.com/video/project-force-2/2026/3/12/in-the-us-israeli-war-on-iran-who-will-run-out-of-missiles-first?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:51768449158f",
+    "type": "incident",
+    "lat": 25.19161,
+    "lon": 55.322,
+    "timestamp": 1773301260000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "AFP: Explosions heard in downtown Dubai",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-07-afp-explosions-heard-in-downtown-dubai",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828233,
+      "location": "Dubai, Dubai",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://x.com/AJSyriaNowN/status/2031999072832291010/photo/1",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "reddit:1rrkb7r",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773300936000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Exclusive: US intelligence says Iran government is not at risk of collapse, say sources",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rrkb7r/exclusive_us_intelligence_says_iran_government_is/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 7,
+      "num_comments": 4
+    }
+  },
+  {
+    "id": "news:al_jazeera:3b622d658177",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773299614000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Trump admin estimates US war on Iran cost $11.3bn in first 6 days: Report",
+    "description": "Lawmakers express concerns as Trump officials project $50bn more may be needed for Iran war funding.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/trump-admin-estimates-us-war-on-iran-cost-11-3bn-in-first-6-days-report?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:21bda501fd8c",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773297066000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Iran targets Gulf nations with missiles, drones as oil prices soar",
+    "description": "Bahrain reports an attack on fuel tanks as Saudi Arabia shoots down drones headed towards an oilfield.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:0ace21605ee2",
+    "type": "incident",
+    "lat": 22.4677,
+    "lon": 54.0033,
+    "timestamp": 1773296580000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Saudi Arabia Ministry of Defense Spokesperson: A drone was intercepted and destroyed in the Empty Quarter, heading towards the Shaybah oil field.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-06-saudi-arabia-ministry-of-defense-spokesperson",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22828155,
+      "location": "Eastern Province Saudi Arabia",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://x.com/modgovksa/status/2031979471859810473/photo/1",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "news:bbc:a6af1987cfa3",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773294960000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Explosions reported on two foreign vessels in the Gulf, authorities say",
+    "description": "Pressure has intensified on the Strait of Hormuz, one of the world's most important shipping lanes, since Israel and the US attacked Iran last month.",
+    "url": "https://www.bbc.com/news/articles/cr5l988qr47o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "liveuamap:incident:fdaf95b67bf7",
+    "type": "incident",
+    "lat": 29.52693,
+    "lon": 52.58812,
+    "timestamp": 1773291300000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "The Shiraz airbase was bombed a short while ago.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-04-the-shiraz-airbase-was-bombed-a-short-while-ago",
+    "icon": "bomb-10",
+    "data": {
+      "liveuamapId": 22828234,
+      "location": "Fars Province, Iran",
+      "catId": 27,
+      "colorId": 10,
+      "originalSource": "https://x.com/MohamadAhwaze/status/2031957244070236374",
+      "picpath": "bomb-10"
+    }
+  },
+  {
+    "id": "news:al_jazeera:14e747cb70b8",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773290159000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "There is only one person’ who can decide to end the war on Iran",
+    "description": "Israeli journalist and writer, Gideon Levy, says the decision to end the Iran war rests only with US President Trump.",
+    "url": "https://www.aljazeera.com/video/quotable/2026/3/12/there-is-only-one-person-who-can-decide-to-end-the-war-on-iran?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:c7afca95428e",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773289959000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Why a historic release of oil reserves may not tame surging prices",
+    "description": "Oil prices continue to soar despite the International Energy Agency&#039;s plans to release 400m barrels into the market.",
+    "url": "https://www.aljazeera.com/economy/2026/3/12/why-historic-oil-reserves-release-may-do-little-to-bring-down-rising-prices?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:cfdeeeedf635",
+    "type": "incident",
+    "lat": 28.7321,
+    "lon": 48.37162,
+    "timestamp": 1773287880000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Kuwait News Agency: Firefighters brought under control a fire that broke out in a residential building in the south of the country after it was targeted by a drone.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-03-kuwait-news-agency-firefighters-brought-under",
+    "icon": "fires-11",
+    "data": {
+      "liveuamapId": 22828241,
+      "location": "Al Ahmadi Governorate, Kuwait",
+      "catId": 9,
+      "colorId": 11,
+      "originalSource": "https://x.com/AJABreaking/status/2031942805174489106",
+      "picpath": "fires-11"
+    }
+  },
+  {
+    "id": "news:al_jazeera:5f1db4b71e16",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773287114000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Six vessels attacked amid reports of Iranian drone boats, sea mines",
+    "description": "Iraq reportedly suspends oil terminal operations after two tankers hit by explosive-laden boats in Iraqi waters.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/five-vessels-attacked-amid-reports-of-iranian-drone-boats-sea-mines?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:3e7bd6943fa6",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773287020000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "How is feminism being used to justify war in Iran?",
+    "description": "Some supporters of the US-Israeli war on Iran are using the treatment of women in the country as a justification.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/how-is-feminism-being-used-to-justify-war-in-iran?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:fd0eb4874f48",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773285315000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Fuel tank fire rages in Bahrain after Iranian attack",
+    "description": "Bahrain&#039;s interior ministry released footage of a massive blaze at a fuel storage facility following an Iranian attack.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fuel-tank-fire-rages-in-bahrain-after-iranian-attack?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:news:cf479b486beb",
+    "type": "news",
+    "lat": 26.11468,
+    "lon": 50.60904,
+    "timestamp": 1773284700000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Bahrain says fuel tanks attacked, requests residents stay home",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/12-march-03-bahrain-says-fuel-tanks-attacked-requests-residents",
+    "icon": "speech-11",
+    "data": {
+      "liveuamapId": 22828150,
+      "location": "Southern Governorate, Bahrain",
+      "catId": 14,
+      "colorId": 11,
+      "originalSource": "https://twitter.com/afp/status/2031929588821958930",
+      "picpath": "speech-11"
+    }
+  },
+  {
+    "id": "news:al_jazeera:861a4ded1be2",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773283488000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "UN Security Council adopts resolution condemning Iran’s attacks in the Gulf",
+    "description": "UN Security Council draft resolution demanding Iran end its attacks on Gulf nations was cosponsored by 135 countries.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/un-security-council-adopts-resolution-condemning-irans-attacks-in-the-gulf?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:118418d7ca87",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773282075000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Who bombed the Iranian girls’ school, killing more than 170? What we know",
+    "description": "The attack on Shajareh Tayyebeh Elementary School quickly became a focal point of concern over civilian casualties.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/who-bombed-the-iranian-girls-school-killing-more-than-170-what-we-know?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:48bcb8c0e7bd",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773279306000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Iran’s authorities warn against protests as Israel threatens Basij forces",
+    "description": "Police chief says protesters seen as acting at the behest of the US and Israel will be treated as enemies.",
+    "url": "https://www.aljazeera.com/news/2026/3/12/irans-authorities-warn-against-protests-as-israel-threatens-basij-forces?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "news:al_jazeera:de3825139215",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773275743000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Qatar PM urges resilience and unity amid Iran strikes",
+    "description": "Qatar’s Prime Minister calls for strengthening the country’s ability to withstand “hardship” amid regional war.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/qatar-pm-urges-resilience-and-unity-amid-iran-strikes?traffic_source=rss",
+    "data": {
+      "feedSource": "al_jazeera"
+    }
+  },
+  {
+    "id": "liveuamap:incident:eecb45fa1d68",
+    "type": "incident",
+    "lat": 25.20339,
+    "lon": 55.34655,
+    "timestamp": 1773270960000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Dubai Media Office: Civil Defense controls minor fire that broke out in a building after a drone attack; no injuries reported.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-23-dubai-media-office-civil-defense-controls-minor",
+    "icon": "fires-6",
+    "data": {
+      "liveuamapId": 22828144,
+      "location": "Dubai, Dubai",
+      "catId": 9,
+      "colorId": 6,
+      "originalSource": "https://twitter.com/alarabytv/status/2031871971500159131",
+      "picpath": "fires-6"
+    }
+  },
+  {
+    "id": "liveuamap:incident:f0989eb19965",
+    "type": "incident",
+    "lat": 25.21163,
+    "lon": 55.32753,
+    "timestamp": 1773269880000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Another drone strike reported in Al Jadaf district of Dubai",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-another-drone-strike-reported-in-al-jadaf-district",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828136,
+      "location": "Dubai, Dubai",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://t.me/supernova_plus/49458",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:1045e34d43e2",
+    "type": "incident",
+    "lat": 29.58963,
+    "lon": 48.80951,
+    "timestamp": 1773269760000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Iranian television: US oil tanker targeted near Umm Qasr port in Basra, southern Iraq, by a remote-controlled speedboat",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-iranian-television-us-oil-tanker-targeted-near",
+    "icon": "explode-1",
+    "data": {
+      "liveuamapId": 22828133,
+      "location": "Iraq",
+      "catId": 26,
+      "colorId": 1,
+      "originalSource": "https://x.com/AlarabyTV/status/2031866794894303523",
+      "picpath": "explode-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:09abac33349f",
+    "type": "incident",
+    "lat": 29.82296,
+    "lon": 48.58566,
+    "timestamp": 1773269520000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Iraqi ports: 31 people rescued, search continues for those missing after attack on two oil tankers",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-iraqi-ports-31-people-rescued-search-continues",
+    "icon": "rescue-11",
+    "data": {
+      "liveuamapId": 22828130,
+      "location": "Baghdad, Baghdad Governorate",
+      "catId": 56,
+      "colorId": 11,
+      "originalSource": "https://x.com/AlArabiya_Brk/status/2031865951260496132",
+      "picpath": "rescue-11"
+    }
+  },
+  {
+    "id": "liveuamap:incident:62a975035b39",
+    "type": "incident",
+    "lat": 30.02285,
+    "lon": 47.92786,
+    "timestamp": 1773269460000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Reuters, citing Iraqi officials: Foreign crew member killed in attack on two fuel tankers",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-reuters-citing-iraqi-officials-foreign-crew-member",
+    "icon": "dead-11",
+    "data": {
+      "liveuamapId": 22828131,
+      "location": "Um Qasr,Basra Governorate",
+      "catId": 7,
+      "colorId": 11,
+      "originalSource": "https://x.com/AlArabiya_Brk/status/2031865597496119732",
+      "picpath": "dead-11"
+    }
+  },
+  {
+    "id": "liveuamap:incident:218ec91df7f0",
+    "type": "incident",
+    "lat": 25.2067,
+    "lon": 55.34779,
+    "timestamp": 1773269100000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Authorities in Dubai are currently dealing with an incident involving a drone crashing into a building in the Dubai Creek Harbour area.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-authorities-in-dubai-are-currently-dealing-with",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828127,
+      "location": "Dubai, Dubai",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://x.com/DXBMediaOffice/status/2031864117309649276",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:3d92a03b8121",
+    "type": "incident",
+    "lat": 26.32091,
+    "lon": 49.94111,
+    "timestamp": 1773268260000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Saudi Ministry of Defense: Drone intercepted and destroyed in the Eastern Province",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-saudi-ministry-of-defense-drone-intercepted-and",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828119,
+      "location": "Eastern Province Saudi Arabia",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://x.com/SkyNewsArabia_B/status/2031860706178711930",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:89545ff0d6b8",
+    "type": "incident",
+    "lat": 29.84696,
+    "lon": 48.56678,
+    "timestamp": 1773268080000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Reuters: A preliminary investigation by Iraqi security authorities confirms that Iranian boats loaded with explosives collided with two fuel tankers in Iraqi waters.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-reuters-a-preliminary-investigation-by-iraqi",
+    "icon": "explode-1",
+    "data": {
+      "liveuamapId": 22828118,
+      "location": "Gulf",
+      "catId": 26,
+      "colorId": 1,
+      "originalSource": "https://x.com/SkyNewsArabia_B/status/2031859914159919380",
+      "picpath": "explode-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:afa2eeaa80b5",
+    "type": "incident",
+    "lat": 28.88717,
+    "lon": 48.15285,
+    "timestamp": 1773267780000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Kuwaiti Army: Air defenses are currently intercepting missile and drone attacks",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-22-kuwaiti-army-air-defenses-are-currently-intercepting",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22828114,
+      "location": "Kuwait",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://twitter.com/lbci_news/status/2031858583353078091",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "reddit:1rr852j",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773266908000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "How Putin Views Trump’s War in Iran",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr852j/how_putin_views_trumps_war_in_iran/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 4,
+      "num_comments": 11
+    }
+  },
+  {
+    "id": "liveuamap:incident:895d37271579",
+    "type": "incident",
+    "lat": 30.02579,
+    "lon": 47.93541,
+    "timestamp": 1773266100000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "An Iraqi official told Reuters that 25 crew members from two ships attacked in Iraqi territorial waters have been evacuated.",
+    "description": "",
+    "url": "https://iraq.liveuamap.com/en/2026/11-march-21-an-iraqi-official-told-reuters-that-25-crew-members",
+    "icon": "rescue-11",
+    "data": {
+      "liveuamapId": 22828108,
+      "location": "Um Qasr,Basra Governorate",
+      "catId": 56,
+      "colorId": 11,
+      "originalSource": "https://x.com/Alhadath_Brk/status/2031851597253226843",
+      "picpath": "rescue-11"
+    }
+  },
+  {
+    "id": "liveuamap:news:7d463e4f169c",
+    "type": "news",
+    "lat": 30.48606,
+    "lon": 47.8022,
+    "timestamp": 1773265920000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "An Iraqi official told Reuters that two foreign tankers carrying Iraqi fuel oil were attacked by unknown assailants within Iraqi territorial waters.",
+    "description": "",
+    "url": "https://iraq.liveuamap.com/en/2026/11-march-21-an-iraqi-official-told-reuters-that-two-foreign",
+    "icon": "speech-11",
+    "data": {
+      "liveuamapId": 22828107,
+      "location": "Basrah,Basra Governorate",
+      "catId": 14,
+      "colorId": 11,
+      "originalSource": "https://x.com/SkyNewsArabia_B/status/2031850894837629330",
+      "picpath": "speech-11"
+    }
+  },
+  {
+    "id": "liveuamap:incident:56a472b8fe30",
+    "type": "incident",
+    "lat": 29.83252,
+    "lon": 48.64197,
+    "timestamp": 1773265800000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Iraqi channels are now reporting that “multiple tankers” are burning in the Persian Gulf off the coast of Basra, following a coordinated attack by Iran",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-21-iraqi-channels-are-now-reporting-that-multiple",
+    "icon": "fires-1",
+    "data": {
+      "liveuamapId": 22828106,
+      "location": "Arabian Gulf",
+      "catId": 9,
+      "colorId": 1,
+      "originalSource": "https://x.com/sentdefender/status/2031850300684763595",
+      "picpath": "fires-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:603ccca31027",
+    "type": "incident",
+    "lat": 29.59037,
+    "lon": 48.80402,
+    "timestamp": 1773264720000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "There are four STS(ship-to-ship) operations currently taking place off the southern coast of Iraq. This pair, filmed from a northern angle, appears to be ZEFYROS (9515917) and SAFESEA VISHNU (9327009)",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-21-there-are-four-stsshiptoship-operations-currently",
+    "icon": "fires-1",
+    "data": {
+      "liveuamapId": 22828132,
+      "location": "Iraq",
+      "catId": 9,
+      "colorId": 1,
+      "originalSource": "https://x.com/TankerTrackers/status/2031859419261112462",
+      "picpath": "fires-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:b41af0209a50",
+    "type": "incident",
+    "lat": 29.85445,
+    "lon": 48.66621,
+    "timestamp": 1773264600000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Reports that an oil tanker was hit in the northern Persian Gulf tonight, Iraqi media reports a massive tower of flame off the Iraqi coast",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-21-reports-that-an-oil-tanker-was-hit-in-the-northern",
+    "icon": "explode-1",
+    "data": {
+      "liveuamapId": 22828101,
+      "location": "Gulf",
+      "catId": 26,
+      "colorId": 1,
+      "originalSource": "https://x.com/Osinttechnical/status/2031845245038567657",
+      "picpath": "explode-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:4da23167ab4e",
+    "type": "incident",
+    "lat": 29.98876,
+    "lon": 48.02027,
+    "timestamp": 1773264300000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "A tanker caught fire in the Anker Umm Qasr area, off the southern oil port of Basra.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-21-a-tanker-caught-fire-in-the-anker-umm-qasr-area",
+    "icon": "fires-1",
+    "data": {
+      "liveuamapId": 22828102,
+      "location": "Gulf",
+      "catId": 9,
+      "colorId": 1,
+      "originalSource": "https://x.com/thestevennabil/status/2031844093740105841/photo/1",
+      "picpath": "fires-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:deece1daee2e",
+    "type": "incident",
+    "lat": 25.19534,
+    "lon": 55.32475,
+    "timestamp": 1773263640000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "The UAE Ministry of Defense stated that its air defenses intercepted six ballistic missiles, seven cruise missiles, and 39 drones on Wednesday. It added that \"since the start of the blatant Iranian aggression, UAE air defenses have intercepted 268 ballistic missiles, 15 cruise missiles, and 1,514 drones.\"",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-21-the-uae-ministry-of-defense-stated-that-its-air",
+    "icon": "aa-6",
+    "data": {
+      "liveuamapId": 22828087,
+      "location": "Dubai, Dubai",
+      "catId": 42,
+      "colorId": 6,
+      "originalSource": "https://x.com/AsharqNews/status/2031841147878846817",
+      "picpath": "aa-6"
+    }
+  },
+  {
+    "id": "reddit:1rr6lb5",
+    "type": "incident",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773263509000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "FBI warns Iran could attack California with drones",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr6lb5/fbi_warns_iran_could_attack_california_with_drones/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 171,
+      "num_comments": 158
+    }
+  },
+  {
+    "id": "reddit:1rr5llo",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773261357000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "How America’s Oil and Gas Dominance Has Weakened Iran",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr5llo/how_americas_oil_and_gas_dominance_has_weakened/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 0,
+      "num_comments": 17
+    }
+  },
+  {
+    "id": "liveuamap:incident:7a58de0e7113",
+    "type": "incident",
+    "lat": 24.006656,
+    "lon": 47.625368,
+    "timestamp": 1773261000000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Saudi Ministry of Defense: Interception and destruction of 3 ballistic missiles launched towards Prince Sultan Air Base",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-20a-saudiministryofdefenseinterceptionanddestruction",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22828045,
+      "location": "Saudi Arabia",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://x.com/SkyNewsArabia_B/status/2031830123641782526",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "liveuamap:incident:ef5609be9ce6",
+    "type": "incident",
+    "lat": 24.0578,
+    "lon": 47.58968,
+    "timestamp": 1773260700000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Saudi Arabia: Three ballistic missiles were shot down heading toward Prince Sultan Air Base. The official spokesperson for the Ministry of Defense stated that three ballistic missiles launched toward Prince Sultan Air Base were intercepted and destroyed.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-20-saudi-arabia-three-ballistic-missiles-were-shot",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22828047,
+      "location": "Saudi Arabia",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://x.com/LucasFoxNews/status/2031828808035426334",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "liveuamap:incident:657e3d451f3e",
+    "type": "incident",
+    "lat": 29.2418,
+    "lon": 48.031912,
+    "timestamp": 1773260580000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Kuwaiti Army: Air defenses are currently intercepting missile and drone attacks",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-20a-kuwaitiarmyairdefensesarecurrentlyintercepting",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22828041,
+      "location": "Mubarak Al-Kabeer Governorate, Kuwait",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://x.com/ALyemennow/status/2031828453348012532",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:261635a73e06",
+    "type": "incident",
+    "lat": 29.2393,
+    "lon": 48.01258,
+    "timestamp": 1773260340000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Kuwaiti air defenses are currently engaging missile and drone attacks. The General Staff of the Army notes that any explosions heard are a result of air defense systems intercepting the attacks. Everyone is urged to adhere to the safety and security instructions issued by the relevant authorities.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-20-kuwaiti-air-defenses-are-currently-engaging-missile",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22828049,
+      "location": "Mubarak Al-Kabeer Governorate, Kuwait",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://x.com/KuwaitArmyGHQ/status/2031827426536231047",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "liveuamap:incident:11408f9d8119",
+    "type": "incident",
+    "lat": 26.26772,
+    "lon": 50.62998,
+    "timestamp": 1773260340000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Bahrain’s Interior Ministry said air raid sirens had been activated across the country and urged citizens and residents to move to the nearest safe place",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-20-bahrains-interior-ministry-said-air-raid-sirens",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22828039,
+      "location": "Middle East",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://x.com/IranIntl_En/status/2031827273079206108",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "reddit:1rr4cr2",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773258722000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Iran says it will target US-Israeli economic, banking interests in region",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr4cr2/iran_says_it_will_target_usisraeli_economic/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 71,
+      "num_comments": 7
+    }
+  },
+  {
+    "id": "reddit:1rr3cbr",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773256570000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "How Donald Trump’s Iran War Is Destabilizing the Gulf",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr3cbr/how_donald_trumps_iran_war_is_destabilizing_the/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 12,
+      "num_comments": 18
+    }
+  },
+  {
+    "id": "reddit:1rr37pu",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773256297000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Israel Eyes Red Sea Base in Somaliland to Fight Iran-Backed Houthis",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr37pu/israel_eyes_red_sea_base_in_somaliland_to_fight/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 76,
+      "num_comments": 23
+    }
+  },
+  {
+    "id": "liveuamap:incident:ebd73f98a424",
+    "type": "incident",
+    "lat": 25.2,
+    "lon": 55.33487,
+    "timestamp": 1773254640000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "UAE Ministry of Defense: Air defenses are dealing with missile and drone attacks coming from Iran",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-18-uae-ministry-of-defense-air-defenses-are-dealing",
+    "icon": "aa-6",
+    "data": {
+      "liveuamapId": 22828084,
+      "location": "Dubai, Dubai",
+      "catId": 42,
+      "colorId": 6,
+      "originalSource": "https://x.com/aawsat_News/status/2031803426103812355",
+      "picpath": "aa-6"
+    }
+  },
+  {
+    "id": "reddit:1rr1y5g",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773253650000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Iran Conflict Megathread #6",
+    "description": "Read the damn rules people. In recent days we've seen a huge influx of first time posters which bring witty one-liners, puns, gotcha comments and other low effort nonsense. All of that will be removed without warning and if your humour is in particular poor taste you will be temp banned.\n\nCheers,",
+    "url": "https://reddit.com/r/CredibleDefense/comments/1rr1y5g/iran_conflict_megathread_6/",
+    "data": {
+      "subreddit": "CredibleDefense",
+      "score": 153,
+      "num_comments": 419
+    }
+  },
+  {
+    "id": "news:bbc:fa1f5b0cf9dc",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773251891000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "'Kill the regime but not people': BBC speaks to Iranians crossing into Turkey",
+    "description": "Dan Johnson hears from Iranians at a crossing in north-west Iran about their thoughts on the war and regime.",
+    "url": "https://www.bbc.com/news/videos/clyx5dlnw44o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rr0oxg",
+    "type": "incident",
+    "lat": 26.56,
+    "lon": 56.25,
+    "timestamp": 1773251035000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Reuters - Iran has laid about a dozen mines in Strait of Hormuz, sources say",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr0oxg/reuters_iran_has_laid_about_a_dozen_mines_in/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 577,
+      "num_comments": 192
+    }
+  },
+  {
+    "id": "reddit:1rr04t6",
+    "type": "incident",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773249867000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "China’s economic statecraft has been exposed by US attacks on Iran and Venezuela",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rr04t6/chinas_economic_statecraft_has_been_exposed_by_us/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 0,
+      "num_comments": 4
+    }
+  },
+  {
+    "id": "reddit:1rqzehv",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773248371000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Opinions of world leaders on Iran",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqzehv/opinions_of_world_leaders_on_iran/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 3,
+      "num_comments": 4
+    }
+  },
+  {
+    "id": "reddit:1rqz6t7",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773247911000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Khamenei advisor warns new Iran supreme leader deadlier | The Jerusalem Post",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqz6t7/khamenei_advisor_warns_new_iran_supreme_leader/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 4,
+      "num_comments": 8
+    }
+  },
+  {
+    "id": "news:bbc:a5017c9001f9",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773247528000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+    "description": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+    "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rqypdi",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773246884000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Trump: \"In Iran non resta più niente da colpire, la guerra finirà presto\"",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqypdi/trump_in_iran_non_resta_più_niente_da_colpire_la/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 0,
+      "num_comments": 0
+    }
+  },
+  {
+    "id": "news:bbc:5a23abf11f72",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773245739000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Iranian minister says country will not play in World Cup",
+    "description": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
+    "url": "https://www.bbc.com/sport/football/articles/cx2d5r92rk0o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "liveuamap:military_sighting:d0eae30c8bee",
+    "type": "military_sighting",
+    "lat": 31.29471,
+    "lon": 48.66291,
+    "timestamp": 1773245040000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Jet activity over Ahvaz, Khuzestan Province, Iran",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-16-jet-activity-over-ahvaz-khuzestan-province-iran",
+    "icon": "airplane-10",
+    "data": {
+      "liveuamapId": 22827942,
+      "location": "Ahvaz, Khuzestan Province",
+      "catId": 3,
+      "colorId": 10,
+      "originalSource": "https://x.com/hey_itsmyturn/status/2031763111942775035",
+      "picpath": "airplane-10"
+    }
+  },
+  {
+    "id": "news:bbc:3ad4f5bea031",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773244834000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+    "description": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+    "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "liveuamap:incident:751457ab1ba3",
+    "type": "incident",
+    "lat": 24.42663,
+    "lon": 54.45777,
+    "timestamp": 1773243660000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Abu Dhabi Media Office: A fire that broke out at the old Abu Dhabi airport as a result of falling debris following a successful interception by air defenses has been brought under control. The incident did not result in any injuries.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-15-abu-dhabi-media-office-a-fire-that-broke-out",
+    "icon": "shahed-1",
+    "data": {
+      "liveuamapId": 22827927,
+      "location": "Abu Dhabi, Abu Dhabi",
+      "catId": 102,
+      "colorId": 1,
+      "originalSource": "https://x.com/SkyNewsArabia_B/status/2031757512060678271",
+      "picpath": "shahed-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:2dd1e0b23c8a",
+    "type": "incident",
+    "lat": 28.90664,
+    "lon": 48.16046,
+    "timestamp": 1773243660000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Kuwaiti Ministry of Defense: We intercepted aerial targets in the past 24 hours, destroying 7 drones, and one crashed outside the threat area.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-15-kuwaiti-ministry-of-defense-we-intercepted-aerial",
+    "icon": "aa-11",
+    "data": {
+      "liveuamapId": 22827925,
+      "location": "Kuwait",
+      "catId": 42,
+      "colorId": 11,
+      "originalSource": "https://x.com/AJABreaking/status/2031757399573332027",
+      "picpath": "aa-11"
+    }
+  },
+  {
+    "id": "liveuamap:incident:85188b5b17e3",
+    "type": "incident",
+    "lat": 28.92871,
+    "lon": 50.85022,
+    "timestamp": 1773243540000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "A very heavy airstrike targeted the city of Bushehr in Iran.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-15-a-very-heavy-airstrike-targeted-the-city-of-bushehr",
+    "icon": "bomb-10",
+    "data": {
+      "liveuamapId": 22827921,
+      "location": "Bandar Bushehr, Bushehr Province",
+      "catId": 27,
+      "colorId": 10,
+      "originalSource": "https://x.com/SawtBeirut/status/2031756844398514215",
+      "picpath": "bomb-10"
+    }
+  },
+  {
+    "id": "reddit:1rqwgiy",
+    "type": "news",
+    "lat": 26.56,
+    "lon": 56.25,
+    "timestamp": 1773241934000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Iran war has blocked the Strait of Hormuz, a vital oil chokepoint. Reopening it is a big challenge",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqwgiy/iran_war_has_blocked_the_strait_of_hormuz_a_vital/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 146,
+      "num_comments": 35
+    }
+  },
+  {
+    "id": "news:bbc:e97799ac40b9",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773238432000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
+    "description": "Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.",
+    "url": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rqus6i",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773238173000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Iran’s Drone Advantage: The Pentagon Copied Tehran’s Technology but Is Still Struggling to Keep Up",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqus6i/irans_drone_advantage_the_pentagon_copied_tehrans/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 30,
+      "num_comments": 8
+    }
+  },
+  {
+    "id": "reddit:1rqul3v",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773237717000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "The Curse of Middle-Sized Wars: In Iran, Trump Risks Falling Into a Familiar Trap",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqul3v/the_curse_of_middlesized_wars_in_iran_trump_risks/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 27,
+      "num_comments": 3
+    }
+  },
+  {
+    "id": "liveuamap:incident:56fa4bcba5d4",
+    "type": "incident",
+    "lat": 28.94157,
+    "lon": 50.84198,
+    "timestamp": 1773236940000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Footage reportedly shows the aftermath of a US-Israeli airstrike on the port city of Bushehr, the capital of Iran's Bushehr Province",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-13-footage-reportedly-shows-the-aftermath-of-a-usisraeli",
+    "icon": "bomb-10",
+    "data": {
+      "liveuamapId": 22827902,
+      "location": "Bandar Bushehr, Bushehr Province",
+      "catId": 27,
+      "colorId": 10,
+      "originalSource": "https://x.com/kimlikci_954/status/2031729189125071255",
+      "picpath": "bomb-10"
+    }
+  },
+  {
+    "id": "reddit:1rqs3u8",
+    "type": "news",
+    "lat": 26.56,
+    "lon": 56.25,
+    "timestamp": 1773231266000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "The World Needs These Two Middle East Pipelines Now More Than Ever: The blockage in the Strait of Hormuz has suddenly made Saudi Arabia’s East-West pipeline one of the most critical pieces of infrastructure in the world",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqs3u8/the_world_needs_these_two_middle_east_pipelines/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 33,
+      "num_comments": 26
+    }
+  },
+  {
+    "id": "reddit:1rqruzl",
+    "type": "news",
+    "lat": 26.56,
+    "lon": 56.25,
+    "timestamp": 1773230576000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqruzl/iran_sends_millions_of_oil_barrels_to_china/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 495,
+      "num_comments": 123
+    }
+  },
+  {
+    "id": "reddit:1rqr8un",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773228779000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "How Lindsey Graham got Trump to yes on Iran",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqr8un/how_lindsey_graham_got_trump_to_yes_on_iran/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 70,
+      "num_comments": 13
+    }
+  },
+  {
+    "id": "news:bbc:334254fc58d4",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773226948000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "In maps: 12 days of strikes across the Middle East",
+    "description": "The US says it \"eliminated\" 16 Iranian ships as Israel carried out further attacks in Lebanon and Iran.",
+    "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "liveuamap:incident:ba2e72c38f2a",
+    "type": "incident",
+    "lat": 26.54954,
+    "lon": 56.45874,
+    "timestamp": 1773225600000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "Image of the Thai-flagged Mayruree Naree being evacuated this morning after being struck by an unknown projectile in the Strait of Hormuz",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-10-image-of-the-thaiflagged-mayruree-naree-being",
+    "icon": "fires-1",
+    "data": {
+      "liveuamapId": 22827858,
+      "location": "Strait of Hormuz",
+      "catId": 9,
+      "colorId": 1,
+      "originalSource": "https://x.com/Richard_AHolmes/status/2031681734178181561",
+      "picpath": "fires-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:3cf65bbec293",
+    "type": "incident",
+    "lat": 26.54489,
+    "lon": 56.49479,
+    "timestamp": 1773225060000,
+    "source": "liveuamap",
+    "confidence": "low",
+    "title": "The United Kingdom Maritime Trade Operations (UKMTO) center has issued a warning about an attack in the Strait of Hormuz 11NM north of Oman. A vessel has been hit with an unknown projectile resulting in a fire on board that has since been extinguished.  A skeleton crew remains onboard.  No word of injuries",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-10-the-united-kingdom-maritime-trade-operations",
+    "icon": "fires-1",
+    "data": {
+      "liveuamapId": 22827856,
+      "location": "Strait of Hormuz",
+      "catId": 9,
+      "colorId": 1,
+      "originalSource": "https://x.com/sentdefender/status/2031679298138935520",
+      "picpath": "fires-1"
+    }
+  },
+  {
+    "id": "liveuamap:incident:f1349d020180",
+    "type": "incident",
+    "lat": 30.33217,
+    "lon": 48.2844,
+    "timestamp": 1773224700000,
+    "source": "liveuamap",
+    "confidence": "medium",
+    "title": "Airstrikes target Iranian border areas near the town of Al-Siba, south of Basra.",
+    "description": "",
+    "url": "https://iran.liveuamap.com/en/2026/11-march-10-airstrikes-target-iranian-border-areas-near-the",
+    "icon": "bomb-10",
+    "data": {
+      "liveuamapId": 22827852,
+      "location": "Abadan,Khuzestan Province",
+      "catId": 27,
+      "colorId": 10,
+      "originalSource": "https://x.com/Alhadath_Brk/status/2031677990501798394",
+      "picpath": "bomb-10"
+    }
+  },
+  {
+    "id": "reddit:1rqowrw",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773220761000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Russia told Trump it isn't sharing US military asset info with Iran, says Witkoff",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqowrw/russia_told_trump_it_isnt_sharing_us_military/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 118,
+      "num_comments": 53
+    }
+  },
+  {
+    "id": "reddit:1rqotu7",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773220450000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "After initially voicing support, Trump says he doesn’t want Kurds to enter Iran war",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqotu7/after_initially_voicing_support_trump_says_he/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 82,
+      "num_comments": 40
+    }
+  },
+  {
+    "id": "news:bbc:ec8ebd7fdb65",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773215463000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Video released by US shows strikes on Iranian vessels near Strait of Hormuz",
+    "description": "Video released by US shows strikes on Iranian vessels near Strait of Hormuz",
+    "url": "https://www.bbc.co.uk/programmes/p0n5vrfw?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rqnfcx",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773215106000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "If Russia Wants To Stay On Washington's Good Side, Why Help Iran Target US Forces?",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqnfcx/if_russia_wants_to_stay_on_washingtons_good_side/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 29,
+      "num_comments": 47
+    }
+  },
+  {
+    "id": "news:bbc:9c4cf3950d00",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773202970000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Inside the Australian hotel where Iranian footballers escaped to claim asylum",
+    "description": "Activists played a key role in making contact with the women as they tried to dodge their minders.",
+    "url": "https://www.bbc.com/news/articles/c15x1928n48o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:9f1d7b282558",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773202480000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Member of Iranian football delegation granted Australian asylum changes her mind",
+    "description": "One of the seven women who received visas has reversed her decision after speaking to teammates, minister says",
+    "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rqf6od",
+    "type": "news",
+    "lat": 26.56,
+    "lon": 56.25,
+    "timestamp": 1773190019000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "US Navy tells shipping industry Hormuz escorts not possible for now",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rqf6od/us_navy_tells_shipping_industry_hormuz_escorts/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 528,
+      "num_comments": 160
+    }
+  },
+  {
+    "id": "news:bbc:b8e230a644c3",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773187566000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing",
+    "description": "US intelligence assets believe Iran is preparing to deploy naval mines in the Strait of Hormuz, the world's busiest oil shipping channel.",
+    "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:e094964c365b",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773173838000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Strait of Hormuz timelapse shows fall in shipping traffic",
+    "description": "The footage demonstrates the flow of ships passing through the Strait of Hormuz in the Gulf since the US-Israeli military offensive began against Iran on 27 February.",
+    "url": "https://www.bbc.com/news/videos/c0rjyr22ypeo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rq7faa",
+    "type": "incident",
+    "lat": 26.56,
+    "lon": 56.25,
+    "timestamp": 1773172377000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "US seeing signs that Iran is preparing to deploy mines in Strait of Hormuz — report",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rq7faa/us_seeing_signs_that_iran_is_preparing_to_deploy/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 381,
+      "num_comments": 120
+    }
+  },
+  {
+    "id": "reddit:1rq7c9q",
+    "type": "incident",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773172196000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Israel’s strikes on Iran defended as legally justified",
+    "description": "",
+    "url": "https://reddit.com/r/geopolitics/comments/1rq7c9q/israels_strikes_on_iran_defended_as_legally/",
+    "data": {
+      "subreddit": "geopolitics",
+      "score": 0,
+      "num_comments": 67
+    }
+  },
+  {
+    "id": "news:bbc:11c5d3f69b92",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773171598000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Why air strikes on Tehran oil facilities are causing black rain",
+    "description": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
+    "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:772f3e5c1a09",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773167583000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel",
+    "description": "Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were diplomats.",
+    "url": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:c11d8d395f7a",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773162421000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "BBC visits key Dubai port in Iran's firing line",
+    "description": "Trade at the Middle East's biggest port has been hit hard since Iran's blockade of the Strait of Hormuz began.",
+    "url": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:a28647c775a2",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773149177000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
+    "description": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
+    "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:cae80abdc7ba",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773110266000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Mixed messages from Trump leave more questions than answers over war's end",
+    "description": "The US president has tried to soothe nerves over oil and markets, but his comments still lack clarity, writes Anthony Zurcher.",
+    "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:e41e354709cc",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773100898000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "GPS jamming: The invisible battle in the Middle East",
+    "description": "GPS jamming has made navigation hazardous in the Gulf, spurring efforts to develop alternatives.",
+    "url": "https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:e7f6c57297a3",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773099046000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "G7 to take 'necessary measures' to support energy supplies",
+    "description": "Finance ministers and the IEA discussed options for stabilising oil prices which surpassed $100.",
+    "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:5b459ca84daa",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773098663000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Trump says Iran war will be over 'very soon', but not this week",
+    "description": "At his press briefing, the US president claimed the operation was a \"tremendous success\", but added that he wants to ensure Iran cannot develop nuclear weaponry.",
+    "url": "https://www.bbc.com/news/videos/cx2g4l8mlgzo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:8033529cc1e1",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773098128000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Strikes shake Iran cities as crowds rally in support of Mojtaba Khamenei",
+    "description": "Iran and Israel continue to exchange attacks, as supporters of Khamenei celebrate the decision to name him supreme leader.",
+    "url": "https://www.bbc.com/news/articles/c3dzy4nede0o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:7e06fa264f1f",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773085860000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Iran's new leader has never been tested. He now faces an existential battle",
+    "description": "Mojtaba Khamenei, 56, enters power as the Islamic republic faces its most serious crisis.",
+    "url": "https://www.bbc.com/news/articles/cwykdn0yn4wo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rp56lt",
+    "type": "incident",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773074285000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "What would be the rationale and objectives for a hypothetical US invasion of Iran?",
+    "description": "**Question**  \nGiven that there has been much[ speculation](https://youtu.be/6WdNzSiGlxc?si=KtY5SqFU6A9YMFmj) and[ discussions](https://youtu.be/3_tMu-USkjI?si=_LBdye0Nl5GwqKFP) of a possible US invasion of Iran in the coming days and weeks, what would be the rationale and objectives for the US to mount such an invasion?\n\n**Background**  \nIt would seem that the[ initial goal](https://www.aljazeera.com/news/2026/3/4/trumps-endgame-in-iran-regime-change-without-us-boots-on-the-ground) when Preside",
+    "url": "https://reddit.com/r/CredibleDefense/comments/1rp56lt/what_would_be_the_rationale_and_objectives_for_a/",
+    "data": {
+      "subreddit": "CredibleDefense",
+      "score": 60,
+      "num_comments": 101
+    }
+  },
+  {
+    "id": "news:bbc:f2b4bda890f0",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773070055000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Iranians deeply divided over Mojtaba Khamenei's rise to power",
+    "description": "While pro-establishment crowds celebrate Khamenei's appointment as his father's successor, others believe it signals no change to how Iran is ruled.",
+    "url": "https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:3f457f52b062",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773068945000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "US missile hit military base near Iran school, video analysis shows",
+    "description": "A US Tomahawk missile hit a military base near a primary school in southern Iran where Iranian authorities said 168 people were killed, expert video analysis shows.",
+    "url": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rp18dq",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773065422000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "DW News explainer: how AI could compress the military “kill chain” in the Iran conflict",
+    "description": "I produced this short explainer for DW News about how AI-assisted systems are being used in the Iran war to process surveillance data and help identify targets. The video also looks at the debate around accountability if an AI-assisted targeting process contributes to a mistake. Curious what this sub thinks about where current systems actually sit in the loop of decision support vs meaningful autonomy.\n\nVideo: [https://youtu.be/9NAUvsABm3k](https://youtu.be/9NAUvsABm3k)",
+    "url": "https://reddit.com/r/CredibleDefense/comments/1rp18dq/dw_news_explainer_how_ai_could_compress_the/",
+    "data": {
+      "subreddit": "CredibleDefense",
+      "score": 37,
+      "num_comments": 15
+    }
+  },
+  {
+    "id": "news:bbc:6f4586d25872",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773059426000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Watch: Why the Iran war is pushing up oil prices",
+    "description": "As turmoil continues in the Middle East, the price of crude oil rose to more than $100 a barrel on Monday.",
+    "url": "https://www.bbc.com/news/videos/cpv8342e3xvo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:7993c8dc72db",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773034805000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "'Night turned into day': Iranians tell of strikes on oil depots",
+    "description": "Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.",
+    "url": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:0e7ccc5e2166",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773006708000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+    "description": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
+    "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rof3vx",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1773000747000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Iran Conflict Megathread #5",
+    "description": "Read the damn rules people. In recent days we've seen a **huge** influx of first time posters which bring witty one-liners, puns, *gotcha* comments and other low effort nonsense. All of that will be removed without warning and if your humour is in particular poor taste you will be temp banned.\n\nCheers,",
+    "url": "https://reddit.com/r/CredibleDefense/comments/1rof3vx/iran_conflict_megathread_5/",
+    "data": {
+      "subreddit": "CredibleDefense",
+      "score": 203,
+      "num_comments": 1008
+    }
+  },
+  {
+    "id": "news:bbc:6562ae7c403f",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772988810000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "'Mind boggles' at doubts over legality of Iran war, Israeli president says",
+    "description": "Isaac Herzog says Israel is acting out of \"self-defence\" on behalf of Israel, the wider region and Europe.",
+    "url": "https://www.bbc.com/news/articles/clyxp780xvro?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:449cf38f8e8f",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772964373000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Kuwaiti government high-rise hit by Iranian drone",
+    "description": "Footage shows flames tearing through the building in the early hours of Sunday, following more attacks on the gulf state.",
+    "url": "https://www.bbc.com/news/videos/c9wnex8g5dyo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:6c5a7df02918",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772934168000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Watch: Huge flames in Tehran after air strikes on oil depots",
+    "description": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
+    "url": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:6caa4a6554ba",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772902274000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Why did Iran's president apologise?",
+    "description": "The apology may hint at a political repositioning inside Iran, writes BBC Persian's Amir Azmi.",
+    "url": "https://www.bbc.com/news/articles/cz7g2qrz8vdo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:a89594d4a9a1",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772863232000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "We've been speaking to Iranians during one week of war. Here's what they said",
+    "description": "Ordinary Iranians reflect on seven days of conflict and where they see their country going next.",
+    "url": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:907f8093e0cc",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772845179000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "The final voyage of the Iranian warship sunk by the US",
+    "description": "The sinking of an Iranian ship by the US near Sri Lanka brings the conflict uncomfortably close to India.",
+    "url": "https://www.bbc.com/news/articles/c4geelnw7w3o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:2a6389b0e5f8",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772834802000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Trump wants to pick Iran's new leader - will a hostile regime under fire agree?",
+    "description": "The president's vision of Iran's future could meet fierce opposition, writes chief international correspondent Lyse Doucet.",
+    "url": "https://www.bbc.com/news/articles/c2k8339xn9jo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:c2be7e612757",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772813765000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
+    "description": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah.",
+    "url": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "reddit:1rm7d9c",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772781564000,
+    "source": "reddit",
+    "confidence": "low",
+    "title": "Iran Conflict Megathread #4",
+    "description": "A reminder on the rules to all new users to this subreddit: we expect a *high* standard of posting and due to increased volumes right now we are more ban happy than usual. If you do not have anything meaningful to contribute, please refrain from doing so. This includes posting vibes and automod catches most of your comments anyway. **We are significantly more ban happy at this stage**. Our appeals are open, however.\n\nRegular users: posting standards are reduced in the sense that *credible* rumou",
+    "url": "https://reddit.com/r/CredibleDefense/comments/1rm7d9c/iran_conflict_megathread_4/",
+    "data": {
+      "subreddit": "CredibleDefense",
+      "score": 134,
+      "num_comments": 1219
+    }
+  },
+  {
+    "id": "news:bbc:264c250efa80",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772745649000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+    "description": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
+    "url": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:c94300d7b940",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772736022000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
+    "description": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's Amir Azimi.",
+    "url": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:fb15f346aff9",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772583845000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "'All red lines have been crossed': Gulf states weigh response to Iranian strikes",
+    "description": "Retaliatory Iranian strikes on Gulf states have tarnished their image as safe and prosperous, writes the BBC's Barbara Plett-Usher.",
+    "url": "https://www.bbc.com/news/articles/cjrqqd8lw2wo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  },
+  {
+    "id": "news:bbc:688890fdffcf",
+    "type": "news",
+    "lat": null,
+    "lon": null,
+    "timestamp": 1772552548000,
+    "source": "news_rss",
+    "confidence": "high",
+    "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
+    "description": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese.",
+    "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&amp;at_campaign=rss",
+    "data": {
+      "feedSource": "bbc"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-03-12T09:53:02.184Z",
+  "overall": {
+    "score": 0,
+    "label": "CRITICAL",
+    "description": "Maritime traffic through Hormuz has effectively ceased. Potential full blockade."
+  },
+  "transit": {
+    "score": 12,
+    "inZone": 83,
+    "moving": 18,
+    "baseline": 153
+  },
+  "flow": {
+    "score": 86,
+    "inbound": 6,
+    "outbound": 7,
+    "ratio": "6:7"
+  },
+  "stranded": {
+    "score": 0,
+    "count": 2061,
+    "totalDwt": 81044806
+  },
+  "tankers": {
+    "score": 0,
+    "count": 0,
+    "moving": 0,
+    "baseline": 35
+  },
+  "confidence": "high",
+  "summary": "Traffic through Hormuz is at ~12% of normal levels. 18 of 83 ships in the strait zone are moving. Flow balance: 6 inbound vs 7 outbound (6:7). 2061 vessels appear stranded (81045k DWT). 0 of 0 tankers transiting (baseline: 35). Overall crisis level: CRITICAL."
+}

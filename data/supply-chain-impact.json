@@ -1,0 +1,140 @@
+{
+  "timestamp": "2026-03-12T09:53:12.113Z",
+  "commodities": [
+    {
+      "name": "Crude Oil & Petroleum",
+      "baseline_flow": "20M bbl/day",
+      "current_estimate": "2.6M bbl/day",
+      "disruption_pct": 87,
+      "bypass_capacity": "2.6M bbl/day",
+      "days_to_critical": 7,
+      "downstream_impacts": [
+        "Global oil prices surge (Brent >$100/bbl)",
+        "Refinery throughput cuts in Asia and Europe",
+        "Strategic petroleum reserve drawdowns",
+        "Aviation fuel costs +33%"
+      ]
+    },
+    {
+      "name": "Liquefied Natural Gas (LNG)",
+      "baseline_flow": "110 bcm/year",
+      "current_estimate": "0.6 bcm/year",
+      "disruption_pct": 99,
+      "days_to_critical": 14,
+      "notes": "Qatar halted all LNG production at Ras Laffan after Iranian drone attack (March 2-3). ~93% of Hormuz LNG is Qatari.",
+      "downstream_impacts": [
+        "Taiwan power generation at risk (Qatar = ~30% of Taiwan LNG)",
+        "European gas storage crisis (46 bcm vs 77 bcm normal; TTF +76%)",
+        "India exposed (60% of gas via Hormuz)",
+        "Pakistan critical (99% of LNG from Qatar+UAE)",
+        "South Korea industrial curtailment risk"
+      ]
+    },
+    {
+      "name": "Petrochemicals",
+      "baseline_flow": "Multiple commodities",
+      "current_estimate": "~12% of normal flow",
+      "disruption_pct": 88,
+      "days_to_critical": 21,
+      "sub_commodities": [
+        {
+          "name": "sulfur",
+          "global_share": "50%",
+          "notes": "Critical for sulfuric acid → semiconductor manufacturing"
+        },
+        {
+          "name": "urea",
+          "global_share": "49%",
+          "notes": "Spring planting season — immediate agricultural impact"
+        },
+        {
+          "name": "ammonia",
+          "global_share": "30%",
+          "notes": "Key fertilizer feedstock"
+        },
+        {
+          "name": "methanol",
+          "global_share": "significant",
+          "notes": "QatarEnergy methanol production halted"
+        },
+        {
+          "name": "ethylene",
+          "global_share": "major",
+          "notes": "Qatar JV polymer production halted"
+        }
+      ],
+      "downstream_impacts": [
+        "Fertilizer prices surge +35% (urea at 3-year highs)",
+        "Spring planting disrupted globally (Brazil, India, US)",
+        "Sulfuric acid supply chain → semiconductor risk",
+        "Chemical industry feedstock shortages"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "baseline_flow": "Indirect dependency",
+      "current_estimate": "At risk",
+      "disruption_pct": 53,
+      "days_to_critical": 14,
+      "pathways": [
+        {
+          "name": "Chemical stockpile",
+          "chain": "Gulf sulfur → sulfuric acid → wafer cleaning/etching",
+          "stockpile_days": "30-60",
+          "status": "drawing down"
+        },
+        {
+          "name": "Energy (TSMC)",
+          "chain": "Qatar LNG → Taiwan power → TSMC fabs",
+          "risk": "Qatar = ~30% of Taiwan LNG imports",
+          "status": "acute"
+        }
+      ],
+      "downstream_impacts": [
+        "TSMC fab operations at risk from power shortages (LNG pathway)",
+        "Electronic-grade sulfuric acid stockpile depleting (30-60 days)",
+        "TSMC accelerating Arizona fab as strategic hedge"
+      ]
+    }
+  ],
+  "days_to_impact": [
+    {
+      "chain": "TSMC / Semiconductor Power",
+      "days": 14,
+      "severity": "CRITICAL",
+      "notes": "Qatar LNG → Taiwan power → TSMC. 30% of Taiwan LNG from Qatar."
+    },
+    {
+      "chain": "European Gas Storage",
+      "days": 21,
+      "severity": "HIGH",
+      "notes": "Storage at 46 bcm (vs 77 normal). TTF +76%. 10% of LNG imports via Hormuz."
+    },
+    {
+      "chain": "Fertilizer / Spring Planting",
+      "days": 7,
+      "severity": "CRITICAL",
+      "notes": "Northern Hemisphere spring planting NOW. 49% of global urea exports via Hormuz."
+    },
+    {
+      "chain": "Gulf Food Imports",
+      "days": 10,
+      "severity": "CRITICAL",
+      "notes": "Dubai has ~10 days fresh food supply. GCC imports 85% of food, 70%+ via Hormuz."
+    },
+    {
+      "chain": "Aviation Fuel",
+      "days": 14,
+      "severity": "SEVERE",
+      "notes": "Middle East exports >1M bbl/day jet fuel (17% global). Prices +33%."
+    },
+    {
+      "chain": "India/Pakistan Energy",
+      "days": 7,
+      "severity": "CRITICAL",
+      "notes": "India: 50% crude + 60% gas via Hormuz. Pakistan: 99% LNG from Qatar+UAE."
+    }
+  ],
+  "overall_severity": "CRITICAL",
+  "summary": "Supply chain disruption is CRITICAL. Oil: 87% disrupted (2.6M bbl/day vs 20M bbl/day baseline, bypass 2.6M bbl/day). LNG: 99% disrupted — Qatar production halted. Petrochemicals: 88% disrupted (fertilizer crisis during spring planting). Semiconductors: 53% indirect risk. 5 supply chains reach critical impact within 14 days."
+}

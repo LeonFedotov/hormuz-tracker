@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Strait of Hormuz — Full Maritime Picture</title>
+</head>
+<body>
+<div class="hdr">
+  <div><h1>Strait of Hormuz — Full Maritime Picture</h1><div class="sub" id="subTitle">Loading...</div></div>
+  <div class="crisis-widget" id="crisisWidget">
+    <div>
+      <div style="font-size:8px;text-transform:uppercase;letter-spacing:1px;color:var(--fg-dim);margin-bottom:2px">Hormuz Health</div>
+      <div class="crisis-score-num" id="crisisNum">--</div>
+      <div class="crisis-label" id="crisisLabel">LOADING</div>
+    </div>
+    <div class="crisis-breakdown" id="crisisBreakdown"></div>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px">
+    <div class="sub" id="ts"></div>
+    <span style="font-size:9px;color:var(--fg-dim)">Time:</span>
+    <select id="timeRange" class="theme-btn" style="font-size:10px" onchange="setTimeRange(this.value)">
+      <option value="live">Live only</option>
+      <option value="1h">Live + 1h</option>
+      <option value="6h">Live + 6h</option>
+      <option value="24h">Live + 24h</option>
+      <option value="har" selected>HAR snapshot + Live</option>
+    </select>
+    <span id="aisStatus" style="font-size:10px;padding:2px 8px;border:1px solid var(--border);border-radius:3px">Connecting...</span>
+  </div>
+</div>
+<div id="map-wrap"><div id="map"></div></div>
+<div class="h-resize" id="hResize"></div>
+<div class="panel" id="panel">
+  <div class="flow-dash" id="dash"></div>
+  <div class="v-resize" data-left="dash" data-right="tblWrap"></div>
+  <div class="ship-list"><div id="ship-table"></div></div>
+  <div class="v-resize" data-left="tblWrap" data-right="ana"></div>
+  <div class="analysis" id="ana"></div>
+</div>
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>

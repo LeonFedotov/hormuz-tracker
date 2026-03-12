@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "generatedAt": "2026-03-12T09:15:00Z",
+    "sources": {
+      "oil_price": "fortune.com, oilpriceapi.com, CNBC (March 11 2026)",
+      "insurance": "Al Jazeera, Caixin Global, CNBC, Insurance Journal (March 3-9 2026)",
+      "transit_counts": "Windward Maritime Intelligence Daily, UNCTAD (March 8-11 2026)",
+      "vessel_data": "research/supply-chain-impacts.md (March 10 2026)"
+    }
+  },
+  "strait_transits_per_day": {
+    "current": 7,
+    "baseline": 153,
+    "unit": "vessels/day",
+    "notes": "66 commercial transits over 9 days (Feb 28 - Mar 10). Only Iran-linked and China-linked vessels transiting. Mar 8: 2 outbound, 0 inbound. Mar 10: 2 outbound, 0 inbound. Mar 11: ~8-12 transits (slight uptick, mostly shadow fleet)."
+  },
+  "oil_flow_bbl_per_day": {
+    "current": 2000000,
+    "baseline": 20000000,
+    "unit": "bbl/day",
+    "notes": "Estimated <10% of normal flow. Only shadow fleet and Iran-linked tankers operating."
+  },
+  "lng_flow_bcm_per_year": {
+    "current": 0,
+    "baseline": 110,
+    "unit": "bcm/year",
+    "notes": "QatarEnergy halted all LNG production at Ras Laffan after drone attack on Mar 2-3. Effectively zero LNG exports since Mar 3."
+  },
+  "war_risk_insurance_pct": {
+    "current": 1.0,
+    "baseline": 0.125,
+    "unit": "percent_of_hull_value",
+    "notes": "New contracts at 1% of hull value per 7-day period (Caixin Global, Mar 7). Pre-crisis: 0.125%. Many insurers cancelled coverage entirely. Premium increases >1000% where available. VLCC charter rates quadrupled to ~$800,000/day."
+  },
+  "brent_crude_price_usd": {
+    "current": 91.98,
+    "pre_crisis": 63.0,
+    "peak": 119.50,
+    "unit": "USD/bbl",
+    "notes": "Brent closed at $91.98 on Mar 11 (up 4.76%). Peaked ~$119.50 on Mar 8. IEA historic crude reserve release announced Mar 11 helped ease prices. Pre-crisis ~$63/bbl."
+  },
+  "vessels_stranded_count": {
+    "current": 150,
+    "unit": "ships",
+    "notes": "~150 ships stranded in region with ~450,000 containers. Maersk, CMA CGM, Hapag-Lloyd suspended all Gulf transits."
+  },
+  "vessels_stranded_dwt": {
+    "current": null,
+    "unit": "DWT",
+    "notes": "Not yet quantified. Estimated significant given 150 vessels including VLCCs."
+  },
+  "bypass_pipeline_utilization_pct": {
+    "current": 40,
+    "capacity_bbl_per_day": 6500000,
+    "actual_bbl_per_day": 2600000,
+    "unit": "percent",
+    "notes": "Habshan-Fujairah: 1.1M of 1.8M bbl/day capacity. East-West Petroline: 1.4M of 5.0M bbl/day capacity. Combined: 2.5-2.6M of 6.5M theoretical. Pipelines carry crude only — no LNG, petrochemicals, or containerized cargo."
+  },
+  "severity_level": {
+    "current": 4,
+    "max": 4,
+    "label": "CRITICAL",
+    "composite_score": 86.6,
+    "composite_max": 100,
+    "notes": "Level 4 (Critical): <10 vessels/day, only shadow fleet, insurance unavailable, oil peaked >$119, QatarEnergy halted, container lines suspended."
+  }
+}

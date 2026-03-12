@@ -1,0 +1,1505 @@
+{
+  "_meta": {
+    "generated": "2026-03-12T09:21:28.163Z",
+    "sources": [
+      "liveuamap",
+      "iranwarlive",
+      "wikipedia"
+    ],
+    "total": 77,
+    "bySource": {
+      "liveuamap": 48,
+      "wikipedia": 29
+    },
+    "byType": {
+      "incident": 49,
+      "infrastructure_damage": 5,
+      "news": 8,
+      "military_sighting": 4,
+      "vessel_attack": 10,
+      "mine_report": 1
+    }
+  },
+  "events": [
+    {
+      "id": "liveuamap:incident:cefadd573621",
+      "type": "incident",
+      "lat": 26.5,
+      "lon": 56.5,
+      "timestamp": 1773306043919,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Explosion — Strait of Hormuz",
+      "description": "On 2026-03-12, a Explosion targeted Two foreign vessels in Strait of Hormuz, resulting in 0 casualties.",
+      "url": "https://www.bbc.com/news/articles/cr5l988qr47o?at_medium=RSS&at_campaign=rss",
+      "data": {
+        "location": "Strait of Hormuz",
+        "casualties": 0,
+        "originalType": "Explosion",
+        "originalId": "IRW-V4-1773306127983-0"
+      }
+    },
+    {
+      "id": "liveuamap:incident:5546981ea4ec",
+      "type": "incident",
+      "lat": 33.88,
+      "lon": 35.48,
+      "timestamp": 1773306043919,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Air Strike — Beirut’s Ramlet al-Baida seafront, Lebanon",
+      "description": "On 2026-03-12, a Air Strike targeted Displaced persons near Beirut seafront in Beirut’s Ramlet al-Baida seafront, Lebanon, resulting in 8 casualties.",
+      "url": "https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight?traffic_source=rss",
+      "data": {
+        "location": "Beirut’s Ramlet al-Baida seafront, Lebanon",
+        "casualties": 8,
+        "originalType": "Air Strike",
+        "originalId": "IRW-V4-1773306127983-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:5a86ca88b075",
+      "type": "incident",
+      "lat": 26.07,
+      "lon": 50.55,
+      "timestamp": 1773306043919,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Missile/Drone Attack — Bahrain (fuel tanks)",
+      "description": "On 2026-03-12, a Missile/Drone Attack targeted Fuel tanks in Bahrain (fuel tanks), resulting in 0 casualties.",
+      "url": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
+      "data": {
+        "location": "Bahrain (fuel tanks)",
+        "casualties": 0,
+        "originalType": "Missile/Drone Attack",
+        "originalId": "IRW-V4-1773306127983-2"
+      }
+    },
+    {
+      "id": "liveuamap:incident:74d33b984f85",
+      "type": "incident",
+      "lat": 23.88,
+      "lon": 45.07,
+      "timestamp": 1773306043919,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Missile/Drone Attack — Saudi Arabia (oilfield)",
+      "description": "On 2026-03-12, a Missile/Drone Attack targeted Oilfield in Saudi Arabia (oilfield), resulting in 0 casualties.",
+      "url": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
+      "data": {
+        "location": "Saudi Arabia (oilfield)",
+        "casualties": 0,
+        "originalType": "Missile/Drone Attack",
+        "originalId": "IRW-V4-1773306127983-3"
+      }
+    },
+    {
+      "id": "liveuamap:incident:c2b520f98f0f",
+      "type": "incident",
+      "lat": 30.03,
+      "lon": 47.92,
+      "timestamp": 1773306043919,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Explosive-laden boat attack — Iraqi waters (off the coast)",
+      "description": "On 2026-03-12, a Explosive-laden boat attack targeted Two oil tankers in Iraqi waters (off the coast), resulting in 1 casualties.",
+      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html",
+      "data": {
+        "location": "Iraqi waters (off the coast)",
+        "casualties": 1,
+        "originalType": "Explosive-laden boat attack",
+        "originalId": "IRW-V4-1773306127983-5"
+      }
+    },
+    {
+      "id": "liveuamap:incident:c072fabc0bf8",
+      "type": "incident",
+      "lat": 31.5,
+      "lon": 34.46,
+      "timestamp": 1773306043919,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Air Strike — Al-Ansar refugee camp, Gaza",
+      "description": "On 2026-03-12, a Air Strike targeted Tents sheltering displaced Palestinians in Al-Ansar refugee camp, Gaza, resulting in 0 casualties.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/fire-erupts-at-gaza-camp-after-israeli-attack-hits-tents?traffic_source=rss",
+      "data": {
+        "location": "Al-Ansar refugee camp, Gaza",
+        "casualties": 0,
+        "originalType": "Air Strike",
+        "originalId": "IRW-V4-1773306127983-6"
+      }
+    },
+    {
+      "id": "liveuamap:incident:421be5f3bf63",
+      "type": "incident",
+      "lat": 35.69,
+      "lon": 51.39,
+      "timestamp": 1773306043919,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Bombing — Iran (Shajareh Tayyebeh Elementary School)",
+      "description": "On 2026-03-12, a Bombing targeted Shajareh Tayyebeh Elementary School in Iran (Shajareh Tayyebeh Elementary School), resulting in 170 casualties.",
+      "url": "https://www.aljazeera.com/news/2026/3/12/who-bombed-the-iranian-girls-school-killing-more-than-170-what-we-know?traffic_source=rss",
+      "data": {
+        "location": "Iran (Shajareh Tayyebeh Elementary School)",
+        "casualties": 170,
+        "originalType": "Bombing",
+        "originalId": "IRW-V4-1773306127983-7"
+      }
+    },
+    {
+      "id": "liveuamap:infrastructure_damage:67a120ff5e17",
+      "type": "infrastructure_damage",
+      "lat": 26.61601,
+      "lon": 56.32416,
+      "timestamp": 1773305940000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Oil prices rise 6% and trade above $97.5 a barrel",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-08-oil-prices-rise-6-and-trade-above-975-a-barrel",
+      "icon": "natural_resource-1",
+      "data": {
+        "liveuamapId": 22828270,
+        "location": "Hormuz Strait",
+        "catId": 57,
+        "colorId": 1,
+        "originalSource": "https://x.com/AlArabiya_Brk/status/2032018679903244312",
+        "picpath": "natural_resource-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:6d154bb9cdfc",
+      "type": "incident",
+      "lat": 25.06206,
+      "lon": 55.13085,
+      "timestamp": 1773305580000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Dubai authorities are responding to a minor incident caused by debris from a successful interception that fell onto the façade of a building on Sheikh Zayed Road. No injuries were reported",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-08-dubai-authorities-are-responding-to-a-minor-incident",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22828261,
+        "location": "Dubai",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://x.com/DXBMediaOffice/status/2032017224182215052",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:708cfa8f5ce2",
+      "type": "incident",
+      "lat": 25.19596,
+      "lon": 55.31977,
+      "timestamp": 1773303900000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "UAE air defenses intercept 6 ballistic missiles, 7 cruise missiles, and 39 drones",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-08-uae-air-defenses-intercept-6-ballistic-missiles",
+      "icon": "aa-6",
+      "data": {
+        "liveuamapId": 22828267,
+        "location": "Dubai, Dubai",
+        "catId": 42,
+        "colorId": 6,
+        "originalSource": "https://x.com/aletihadae/status/2032010117550330090",
+        "picpath": "aa-6"
+      }
+    },
+    {
+      "id": "liveuamap:incident:9b0b41d1ac8e",
+      "type": "incident",
+      "lat": 25.21186,
+      "lon": 55.27325,
+      "timestamp": 1773303720000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Dubai authorities are responding to a minor drone incident in the Al Bada’a area. No injuries have been reported",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-08-dubai-authorities-are-responding-to-a-minor-drone",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22828264,
+        "location": "Dubai, Dubai",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://x.com/DXBMediaOffice/status/2032009273866383512",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:95ca68a7df57",
+      "type": "incident",
+      "lat": 26.26542,
+      "lon": 50.6365,
+      "timestamp": 1773303180000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Sounds of interception heard in response to aerial threats over Manama",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-08-sounds-of-interception-heard-in-response-to-aerial",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22828269,
+        "location": "Muharraq Governorate, Bahrain",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://x.com/AlArabiya_Brk/status/2032007173337673921",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:11c3eecbcd16",
+      "type": "incident",
+      "lat": 29.53915,
+      "lon": 52.58709,
+      "timestamp": 1773302760000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Iranian media: Air base in Shiraz, southern Iran, targeted twice this morning",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-08-iranian-media-air-base-in-shiraz-southern-iran",
+      "icon": "bomb-10",
+      "data": {
+        "liveuamapId": 22828271,
+        "location": "Fars Province, Iran",
+        "catId": 27,
+        "colorId": 10,
+        "originalSource": "https://x.com/AlArabiya_Brk/status/2032005214207619532",
+        "picpath": "bomb-10"
+      }
+    },
+    {
+      "id": "liveuamap:incident:4828e9e5c5ab",
+      "type": "incident",
+      "lat": 25.1941,
+      "lon": 55.32972,
+      "timestamp": 1773301380000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "New drones raid reported in Dubai",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-07-new-drones-raid-reported-in-dubai",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22828236,
+        "location": "Dubai, Dubai",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://t.me/supernova_plus/49478",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:51768449158f",
+      "type": "incident",
+      "lat": 25.19161,
+      "lon": 55.322,
+      "timestamp": 1773301260000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "AFP: Explosions heard in downtown Dubai",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-07-afp-explosions-heard-in-downtown-dubai",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22828233,
+        "location": "Dubai, Dubai",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://x.com/AJSyriaNowN/status/2031999072832291010/photo/1",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:0ace21605ee2",
+      "type": "incident",
+      "lat": 22.4677,
+      "lon": 54.0033,
+      "timestamp": 1773296580000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Saudi Arabia Ministry of Defense Spokesperson: A drone was intercepted and destroyed in the Empty Quarter, heading towards the Shaybah oil field.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-06-saudi-arabia-ministry-of-defense-spokesperson",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22828155,
+        "location": "Eastern Province Saudi Arabia",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://x.com/modgovksa/status/2031979471859810473/photo/1",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:fdaf95b67bf7",
+      "type": "incident",
+      "lat": 29.52693,
+      "lon": 52.58812,
+      "timestamp": 1773291300000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "The Shiraz airbase was bombed a short while ago.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-04-the-shiraz-airbase-was-bombed-a-short-while-ago",
+      "icon": "bomb-10",
+      "data": {
+        "liveuamapId": 22828234,
+        "location": "Fars Province, Iran",
+        "catId": 27,
+        "colorId": 10,
+        "originalSource": "https://x.com/MohamadAhwaze/status/2031957244070236374",
+        "picpath": "bomb-10"
+      }
+    },
+    {
+      "id": "liveuamap:incident:cfdeeeedf635",
+      "type": "incident",
+      "lat": 28.7321,
+      "lon": 48.37162,
+      "timestamp": 1773287880000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Kuwait News Agency: Firefighters brought under control a fire that broke out in a residential building in the south of the country after it was targeted by a drone.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-03-kuwait-news-agency-firefighters-brought-under",
+      "icon": "fires-11",
+      "data": {
+        "liveuamapId": 22828241,
+        "location": "Al Ahmadi Governorate, Kuwait",
+        "catId": 9,
+        "colorId": 11,
+        "originalSource": "https://x.com/AJABreaking/status/2031942805174489106",
+        "picpath": "fires-11"
+      }
+    },
+    {
+      "id": "liveuamap:news:cf479b486beb",
+      "type": "news",
+      "lat": 26.11468,
+      "lon": 50.60904,
+      "timestamp": 1773284700000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Bahrain says fuel tanks attacked, requests residents stay home",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/12-march-03-bahrain-says-fuel-tanks-attacked-requests-residents",
+      "icon": "speech-11",
+      "data": {
+        "liveuamapId": 22828150,
+        "location": "Southern Governorate, Bahrain",
+        "catId": 14,
+        "colorId": 11,
+        "originalSource": "https://twitter.com/afp/status/2031929588821958930",
+        "picpath": "speech-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:eecb45fa1d68",
+      "type": "incident",
+      "lat": 25.20339,
+      "lon": 55.34655,
+      "timestamp": 1773270960000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Dubai Media Office: Civil Defense controls minor fire that broke out in a building after a drone attack; no injuries reported.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-23-dubai-media-office-civil-defense-controls-minor",
+      "icon": "fires-6",
+      "data": {
+        "liveuamapId": 22828144,
+        "location": "Dubai, Dubai",
+        "catId": 9,
+        "colorId": 6,
+        "originalSource": "https://twitter.com/alarabytv/status/2031871971500159131",
+        "picpath": "fires-6"
+      }
+    },
+    {
+      "id": "liveuamap:incident:f0989eb19965",
+      "type": "incident",
+      "lat": 25.21163,
+      "lon": 55.32753,
+      "timestamp": 1773269880000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Another drone strike reported in Al Jadaf district of Dubai",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-another-drone-strike-reported-in-al-jadaf-district",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22828136,
+        "location": "Dubai, Dubai",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://t.me/supernova_plus/49458",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:1045e34d43e2",
+      "type": "incident",
+      "lat": 29.58963,
+      "lon": 48.80951,
+      "timestamp": 1773269760000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Iranian television: US oil tanker targeted near Umm Qasr port in Basra, southern Iraq, by a remote-controlled speedboat",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-iranian-television-us-oil-tanker-targeted-near",
+      "icon": "explode-1",
+      "data": {
+        "liveuamapId": 22828133,
+        "location": "Iraq",
+        "catId": 26,
+        "colorId": 1,
+        "originalSource": "https://x.com/AlarabyTV/status/2031866794894303523",
+        "picpath": "explode-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:09abac33349f",
+      "type": "incident",
+      "lat": 29.82296,
+      "lon": 48.58566,
+      "timestamp": 1773269520000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Iraqi ports: 31 people rescued, search continues for those missing after attack on two oil tankers",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-iraqi-ports-31-people-rescued-search-continues",
+      "icon": "rescue-11",
+      "data": {
+        "liveuamapId": 22828130,
+        "location": "Baghdad, Baghdad Governorate",
+        "catId": 56,
+        "colorId": 11,
+        "originalSource": "https://x.com/AlArabiya_Brk/status/2031865951260496132",
+        "picpath": "rescue-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:62a975035b39",
+      "type": "incident",
+      "lat": 30.02285,
+      "lon": 47.92786,
+      "timestamp": 1773269460000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Reuters, citing Iraqi officials: Foreign crew member killed in attack on two fuel tankers",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-reuters-citing-iraqi-officials-foreign-crew-member",
+      "icon": "dead-11",
+      "data": {
+        "liveuamapId": 22828131,
+        "location": "Um Qasr,Basra Governorate",
+        "catId": 7,
+        "colorId": 11,
+        "originalSource": "https://x.com/AlArabiya_Brk/status/2031865597496119732",
+        "picpath": "dead-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:218ec91df7f0",
+      "type": "incident",
+      "lat": 25.2067,
+      "lon": 55.34779,
+      "timestamp": 1773269100000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Authorities in Dubai are currently dealing with an incident involving a drone crashing into a building in the Dubai Creek Harbour area.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-authorities-in-dubai-are-currently-dealing-with",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22828127,
+        "location": "Dubai, Dubai",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://x.com/DXBMediaOffice/status/2031864117309649276",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:3d92a03b8121",
+      "type": "incident",
+      "lat": 26.32091,
+      "lon": 49.94111,
+      "timestamp": 1773268260000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Saudi Ministry of Defense: Drone intercepted and destroyed in the Eastern Province",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-saudi-ministry-of-defense-drone-intercepted-and",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22828119,
+        "location": "Eastern Province Saudi Arabia",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://x.com/SkyNewsArabia_B/status/2031860706178711930",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:89545ff0d6b8",
+      "type": "incident",
+      "lat": 29.84696,
+      "lon": 48.56678,
+      "timestamp": 1773268080000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Reuters: A preliminary investigation by Iraqi security authorities confirms that Iranian boats loaded with explosives collided with two fuel tankers in Iraqi waters.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-reuters-a-preliminary-investigation-by-iraqi",
+      "icon": "explode-1",
+      "data": {
+        "liveuamapId": 22828118,
+        "location": "Gulf",
+        "catId": 26,
+        "colorId": 1,
+        "originalSource": "https://x.com/SkyNewsArabia_B/status/2031859914159919380",
+        "picpath": "explode-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:afa2eeaa80b5",
+      "type": "incident",
+      "lat": 28.88717,
+      "lon": 48.15285,
+      "timestamp": 1773267780000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Kuwaiti Army: Air defenses are currently intercepting missile and drone attacks",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-22-kuwaiti-army-air-defenses-are-currently-intercepting",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22828114,
+        "location": "Kuwait",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://twitter.com/lbci_news/status/2031858583353078091",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:895d37271579",
+      "type": "incident",
+      "lat": 30.02579,
+      "lon": 47.93541,
+      "timestamp": 1773266100000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "An Iraqi official told Reuters that 25 crew members from two ships attacked in Iraqi territorial waters have been evacuated.",
+      "description": "",
+      "url": "https://iraq.liveuamap.com/en/2026/11-march-21-an-iraqi-official-told-reuters-that-25-crew-members",
+      "icon": "rescue-11",
+      "data": {
+        "liveuamapId": 22828108,
+        "location": "Um Qasr,Basra Governorate",
+        "catId": 56,
+        "colorId": 11,
+        "originalSource": "https://x.com/Alhadath_Brk/status/2031851597253226843",
+        "picpath": "rescue-11"
+      }
+    },
+    {
+      "id": "liveuamap:news:7d463e4f169c",
+      "type": "news",
+      "lat": 30.48606,
+      "lon": 47.8022,
+      "timestamp": 1773265920000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "An Iraqi official told Reuters that two foreign tankers carrying Iraqi fuel oil were attacked by unknown assailants within Iraqi territorial waters.",
+      "description": "",
+      "url": "https://iraq.liveuamap.com/en/2026/11-march-21-an-iraqi-official-told-reuters-that-two-foreign",
+      "icon": "speech-11",
+      "data": {
+        "liveuamapId": 22828107,
+        "location": "Basrah,Basra Governorate",
+        "catId": 14,
+        "colorId": 11,
+        "originalSource": "https://x.com/SkyNewsArabia_B/status/2031850894837629330",
+        "picpath": "speech-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:56a472b8fe30",
+      "type": "incident",
+      "lat": 29.83252,
+      "lon": 48.64197,
+      "timestamp": 1773265800000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Iraqi channels are now reporting that “multiple tankers” are burning in the Persian Gulf off the coast of Basra, following a coordinated attack by Iran",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-21-iraqi-channels-are-now-reporting-that-multiple",
+      "icon": "fires-1",
+      "data": {
+        "liveuamapId": 22828106,
+        "location": "Arabian Gulf",
+        "catId": 9,
+        "colorId": 1,
+        "originalSource": "https://x.com/sentdefender/status/2031850300684763595",
+        "picpath": "fires-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:603ccca31027",
+      "type": "incident",
+      "lat": 29.59037,
+      "lon": 48.80402,
+      "timestamp": 1773264720000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "There are four STS(ship-to-ship) operations currently taking place off the southern coast of Iraq. This pair, filmed from a northern angle, appears to be ZEFYROS (9515917) and SAFESEA VISHNU (9327009)",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-21-there-are-four-stsshiptoship-operations-currently",
+      "icon": "fires-1",
+      "data": {
+        "liveuamapId": 22828132,
+        "location": "Iraq",
+        "catId": 9,
+        "colorId": 1,
+        "originalSource": "https://x.com/TankerTrackers/status/2031859419261112462",
+        "picpath": "fires-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:b41af0209a50",
+      "type": "incident",
+      "lat": 29.85445,
+      "lon": 48.66621,
+      "timestamp": 1773264600000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Reports that an oil tanker was hit in the northern Persian Gulf tonight, Iraqi media reports a massive tower of flame off the Iraqi coast",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-21-reports-that-an-oil-tanker-was-hit-in-the-northern",
+      "icon": "explode-1",
+      "data": {
+        "liveuamapId": 22828101,
+        "location": "Gulf",
+        "catId": 26,
+        "colorId": 1,
+        "originalSource": "https://x.com/Osinttechnical/status/2031845245038567657",
+        "picpath": "explode-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:4da23167ab4e",
+      "type": "incident",
+      "lat": 29.98876,
+      "lon": 48.02027,
+      "timestamp": 1773264300000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "A tanker caught fire in the Anker Umm Qasr area, off the southern oil port of Basra.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-21-a-tanker-caught-fire-in-the-anker-umm-qasr-area",
+      "icon": "fires-1",
+      "data": {
+        "liveuamapId": 22828102,
+        "location": "Gulf",
+        "catId": 9,
+        "colorId": 1,
+        "originalSource": "https://x.com/thestevennabil/status/2031844093740105841/photo/1",
+        "picpath": "fires-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:deece1daee2e",
+      "type": "incident",
+      "lat": 25.19534,
+      "lon": 55.32475,
+      "timestamp": 1773263640000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "The UAE Ministry of Defense stated that its air defenses intercepted six ballistic missiles, seven cruise missiles, and 39 drones on Wednesday. It added that \"since the start of the blatant Iranian aggression, UAE air defenses have intercepted 268 ballistic missiles, 15 cruise missiles, and 1,514 drones.\"",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-21-the-uae-ministry-of-defense-stated-that-its-air",
+      "icon": "aa-6",
+      "data": {
+        "liveuamapId": 22828087,
+        "location": "Dubai, Dubai",
+        "catId": 42,
+        "colorId": 6,
+        "originalSource": "https://x.com/AsharqNews/status/2031841147878846817",
+        "picpath": "aa-6"
+      }
+    },
+    {
+      "id": "liveuamap:incident:7a58de0e7113",
+      "type": "incident",
+      "lat": 24.006656,
+      "lon": 47.625368,
+      "timestamp": 1773261000000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Saudi Ministry of Defense: Interception and destruction of 3 ballistic missiles launched towards Prince Sultan Air Base",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-20a-saudiministryofdefenseinterceptionanddestruction",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22828045,
+        "location": "Saudi Arabia",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://x.com/SkyNewsArabia_B/status/2031830123641782526",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:ef5609be9ce6",
+      "type": "incident",
+      "lat": 24.0578,
+      "lon": 47.58968,
+      "timestamp": 1773260700000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Saudi Arabia: Three ballistic missiles were shot down heading toward Prince Sultan Air Base. The official spokesperson for the Ministry of Defense stated that three ballistic missiles launched toward Prince Sultan Air Base were intercepted and destroyed.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-20-saudi-arabia-three-ballistic-missiles-were-shot",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22828047,
+        "location": "Saudi Arabia",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://x.com/LucasFoxNews/status/2031828808035426334",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:261635a73e06",
+      "type": "incident",
+      "lat": 29.2393,
+      "lon": 48.01258,
+      "timestamp": 1773260340000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Kuwaiti air defenses are currently engaging missile and drone attacks. The General Staff of the Army notes that any explosions heard are a result of air defense systems intercepting the attacks. Everyone is urged to adhere to the safety and security instructions issued by the relevant authorities.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-20-kuwaiti-air-defenses-are-currently-engaging-missile",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22828049,
+        "location": "Mubarak Al-Kabeer Governorate, Kuwait",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://x.com/KuwaitArmyGHQ/status/2031827426536231047",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:11408f9d8119",
+      "type": "incident",
+      "lat": 26.26772,
+      "lon": 50.62998,
+      "timestamp": 1773260340000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Bahrain’s Interior Ministry said air raid sirens had been activated across the country and urged citizens and residents to move to the nearest safe place",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-20-bahrains-interior-ministry-said-air-raid-sirens",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22828039,
+        "location": "Middle East",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://x.com/IranIntl_En/status/2031827273079206108",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:ebd73f98a424",
+      "type": "incident",
+      "lat": 25.2,
+      "lon": 55.33487,
+      "timestamp": 1773254640000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "UAE Ministry of Defense: Air defenses are dealing with missile and drone attacks coming from Iran",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-18-uae-ministry-of-defense-air-defenses-are-dealing",
+      "icon": "aa-6",
+      "data": {
+        "liveuamapId": 22828084,
+        "location": "Dubai, Dubai",
+        "catId": 42,
+        "colorId": 6,
+        "originalSource": "https://x.com/aawsat_News/status/2031803426103812355",
+        "picpath": "aa-6"
+      }
+    },
+    {
+      "id": "liveuamap:military_sighting:d0eae30c8bee",
+      "type": "military_sighting",
+      "lat": 31.29471,
+      "lon": 48.66291,
+      "timestamp": 1773245040000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Jet activity over Ahvaz, Khuzestan Province, Iran",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-16-jet-activity-over-ahvaz-khuzestan-province-iran",
+      "icon": "airplane-10",
+      "data": {
+        "liveuamapId": 22827942,
+        "location": "Ahvaz, Khuzestan Province",
+        "catId": 3,
+        "colorId": 10,
+        "originalSource": "https://x.com/hey_itsmyturn/status/2031763111942775035",
+        "picpath": "airplane-10"
+      }
+    },
+    {
+      "id": "liveuamap:incident:751457ab1ba3",
+      "type": "incident",
+      "lat": 24.42663,
+      "lon": 54.45777,
+      "timestamp": 1773243660000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Abu Dhabi Media Office: A fire that broke out at the old Abu Dhabi airport as a result of falling debris following a successful interception by air defenses has been brought under control. The incident did not result in any injuries.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-15-abu-dhabi-media-office-a-fire-that-broke-out",
+      "icon": "shahed-1",
+      "data": {
+        "liveuamapId": 22827927,
+        "location": "Abu Dhabi, Abu Dhabi",
+        "catId": 102,
+        "colorId": 1,
+        "originalSource": "https://x.com/SkyNewsArabia_B/status/2031757512060678271",
+        "picpath": "shahed-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:2dd1e0b23c8a",
+      "type": "incident",
+      "lat": 28.90664,
+      "lon": 48.16046,
+      "timestamp": 1773243660000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Kuwaiti Ministry of Defense: We intercepted aerial targets in the past 24 hours, destroying 7 drones, and one crashed outside the threat area.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-15-kuwaiti-ministry-of-defense-we-intercepted-aerial",
+      "icon": "aa-11",
+      "data": {
+        "liveuamapId": 22827925,
+        "location": "Kuwait",
+        "catId": 42,
+        "colorId": 11,
+        "originalSource": "https://x.com/AJABreaking/status/2031757399573332027",
+        "picpath": "aa-11"
+      }
+    },
+    {
+      "id": "liveuamap:incident:85188b5b17e3",
+      "type": "incident",
+      "lat": 28.92871,
+      "lon": 50.85022,
+      "timestamp": 1773243540000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "A very heavy airstrike targeted the city of Bushehr in Iran.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-15-a-very-heavy-airstrike-targeted-the-city-of-bushehr",
+      "icon": "bomb-10",
+      "data": {
+        "liveuamapId": 22827921,
+        "location": "Bandar Bushehr, Bushehr Province",
+        "catId": 27,
+        "colorId": 10,
+        "originalSource": "https://x.com/SawtBeirut/status/2031756844398514215",
+        "picpath": "bomb-10"
+      }
+    },
+    {
+      "id": "liveuamap:incident:56fa4bcba5d4",
+      "type": "incident",
+      "lat": 28.94157,
+      "lon": 50.84198,
+      "timestamp": 1773236940000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Footage reportedly shows the aftermath of a US-Israeli airstrike on the port city of Bushehr, the capital of Iran's Bushehr Province",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-13-footage-reportedly-shows-the-aftermath-of-a-usisraeli",
+      "icon": "bomb-10",
+      "data": {
+        "liveuamapId": 22827902,
+        "location": "Bandar Bushehr, Bushehr Province",
+        "catId": 27,
+        "colorId": 10,
+        "originalSource": "https://x.com/kimlikci_954/status/2031729189125071255",
+        "picpath": "bomb-10"
+      }
+    },
+    {
+      "id": "liveuamap:incident:ba2e72c38f2a",
+      "type": "incident",
+      "lat": 26.54954,
+      "lon": 56.45874,
+      "timestamp": 1773225600000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "Image of the Thai-flagged Mayruree Naree being evacuated this morning after being struck by an unknown projectile in the Strait of Hormuz",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-10-image-of-the-thaiflagged-mayruree-naree-being",
+      "icon": "fires-1",
+      "data": {
+        "liveuamapId": 22827858,
+        "location": "Strait of Hormuz",
+        "catId": 9,
+        "colorId": 1,
+        "originalSource": "https://x.com/Richard_AHolmes/status/2031681734178181561",
+        "picpath": "fires-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:3cf65bbec293",
+      "type": "incident",
+      "lat": 26.54489,
+      "lon": 56.49479,
+      "timestamp": 1773225060000,
+      "source": "liveuamap",
+      "confidence": "low",
+      "title": "The United Kingdom Maritime Trade Operations (UKMTO) center has issued a warning about an attack in the Strait of Hormuz 11NM north of Oman. A vessel has been hit with an unknown projectile resulting in a fire on board that has since been extinguished.  A skeleton crew remains onboard.  No word of injuries",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-10-the-united-kingdom-maritime-trade-operations",
+      "icon": "fires-1",
+      "data": {
+        "liveuamapId": 22827856,
+        "location": "Strait of Hormuz",
+        "catId": 9,
+        "colorId": 1,
+        "originalSource": "https://x.com/sentdefender/status/2031679298138935520",
+        "picpath": "fires-1"
+      }
+    },
+    {
+      "id": "liveuamap:incident:f1349d020180",
+      "type": "incident",
+      "lat": 30.33217,
+      "lon": 48.2844,
+      "timestamp": 1773224700000,
+      "source": "liveuamap",
+      "confidence": "medium",
+      "title": "Airstrikes target Iranian border areas near the town of Al-Siba, south of Basra.",
+      "description": "",
+      "url": "https://iran.liveuamap.com/en/2026/11-march-10-airstrikes-target-iranian-border-areas-near-the",
+      "icon": "bomb-10",
+      "data": {
+        "liveuamapId": 22827852,
+        "location": "Abadan,Khuzestan Province",
+        "catId": 27,
+        "colorId": 10,
+        "originalSource": "https://x.com/Alhadath_Brk/status/2031677990501798394",
+        "picpath": "bomb-10"
+      }
+    },
+    {
+      "id": "wikipedia:news:51520d5c8b9a",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773144000000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Iran Foreign Ministry warns tankers must be \"very careful\"",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-10",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 3,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-10"
+      }
+    },
+    {
+      "id": "wikipedia:news:95bf97a04683",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1773144000000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "750+ ships caught in backups; Brent at ~$126/barrel peak",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-10",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-10"
+      }
+    },
+    {
+      "id": "wikipedia:military_sighting:01c01d414fb2",
+      "type": "military_sighting",
+      "lat": 26,
+      "lon": 52,
+      "timestamp": 1773057600000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "GPS jamming surges to 1,650 ships affected; 44 injected signal zones",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-09",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 3,
+      "data": {
+        "location": "persian gulf",
+        "date": "2026-03-09"
+      }
+    },
+    {
+      "id": "wikipedia:military_sighting:3b2cafb6d5d3",
+      "type": "military_sighting",
+      "lat": 26,
+      "lon": 52,
+      "timestamp": 1773057600000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "AIS disruption: 92 denial areas across Gulf",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-09",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 3,
+      "data": {
+        "location": "persian gulf",
+        "date": "2026-03-09"
+      }
+    },
+    {
+      "id": "wikipedia:infrastructure_damage:fd93685c812e",
+      "type": "infrastructure_damage",
+      "lat": 24.114,
+      "lon": 52.729,
+      "timestamp": 1772971200000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "ADNOC Ruwais complex hit by drone attack, fire — 900k bpd capacity affected",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-08",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "ruwais",
+        "date": "2026-03-08"
+      }
+    },
+    {
+      "id": "wikipedia:incident:fc2f1dc986c5",
+      "type": "incident",
+      "lat": 35.689,
+      "lon": 51.389,
+      "timestamp": 1772971200000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Israel bombs Tehran oil depots",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-08",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "tehran",
+        "date": "2026-03-08"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:fe47f8afe80c",
+      "type": "vessel_attack",
+      "lat": 26,
+      "lon": 52,
+      "timestamp": 1772884800000,
+      "source": "wikipedia",
+      "confidence": "high",
+      "title": "IRGC drone strike on oil tanker Prima in Persian Gulf",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-07",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "persian gulf",
+        "date": "2026-03-07"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:03726c319b48",
+      "type": "vessel_attack",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772884800000,
+      "source": "wikipedia",
+      "confidence": "high",
+      "title": "IRGC drone strike on US oil tanker Louise P in Strait of Hormuz",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-07",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-07"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:0ef527aa2553",
+      "type": "vessel_attack",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772884800000,
+      "source": "wikipedia",
+      "confidence": "high",
+      "title": "Iranian kamikaze drone boat makes first successful strike",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-07",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-07"
+      }
+    },
+    {
+      "id": "wikipedia:news:c9c5b0c45de9",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772884800000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Only 3 commercial transits recorded — Brent surpasses $100/barrel",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-07",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-07"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:ec1775a5e81b",
+      "type": "vessel_attack",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772798400000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Tugboat dispatched to assist Safeen Prestige struck by 2 missiles, sinks — 3 crew missing",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-06",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-06"
+      }
+    },
+    {
+      "id": "wikipedia:news:8542035b6e75",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772712000000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "IRGC narrows closure: Hormuz closed only to US, Israel, and Western allies",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-05",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 3,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-05"
+      }
+    },
+    {
+      "id": "wikipedia:mine_report:0d5c6e6084e0",
+      "type": "mine_report",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772712000000,
+      "source": "wikipedia",
+      "confidence": "high",
+      "title": "Iran mine stockpile (est. 5,000-6,000) reported being deployed",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-05",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-05"
+      }
+    },
+    {
+      "id": "wikipedia:military_sighting:8c9af2b3a951",
+      "type": "military_sighting",
+      "lat": 26,
+      "lon": 52,
+      "timestamp": 1772712000000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "GPS jamming affects 1,100+ ships in Middle East Gulf",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-05",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 3,
+      "data": {
+        "location": "persian gulf",
+        "date": "2026-03-05"
+      }
+    },
+    {
+      "id": "wikipedia:incident:8faa6f8f1160",
+      "type": "incident",
+      "lat": 27.19,
+      "lon": 56.27,
+      "timestamp": 1772539200000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "US Navy Operation Epic Fury strikes Iranian Navy at Bandar Abbas",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-03",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "bandar abbas",
+        "date": "2026-03-03"
+      }
+    },
+    {
+      "id": "wikipedia:infrastructure_damage:a711c36fb88d",
+      "type": "infrastructure_damage",
+      "lat": 29.233,
+      "lon": 50.317,
+      "timestamp": 1772539200000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Kharg Island 7 jetties destroyed by B-2/Tomahawk strikes — 1.8M bpd offline",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-03",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "kharg island",
+        "date": "2026-03-03"
+      }
+    },
+    {
+      "id": "wikipedia:infrastructure_damage:eb6f08d136ee",
+      "type": "infrastructure_damage",
+      "lat": 27.19,
+      "lon": 56.27,
+      "timestamp": 1772539200000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Bandar Abbas refinery (320K bpd) feedstock severed",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-03",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "bandar abbas",
+        "date": "2026-03-03"
+      }
+    },
+    {
+      "id": "wikipedia:news:7948a2581026",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772452800000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "IRGC officially declares Strait of Hormuz closed",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-02",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-02"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:30c24876b44b",
+      "type": "vessel_attack",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772452800000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Athe Nova (oil tanker) hit by 2 drones in Hormuz, set ablaze",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-02",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-02"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:c68044a19078",
+      "type": "vessel_attack",
+      "lat": 29.202,
+      "lon": 48.091,
+      "timestamp": 1772452800000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Sonangol Namibe — explosion at Mubarak Al Kabeer Port, Kuwait; oil spill",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-02",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "mubarak al kabeer",
+        "date": "2026-03-02"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:65e98b3f0cc0",
+      "type": "vessel_attack",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772452800000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Safeen Prestige (Malta-flagged) struck, crew evacuated",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-02",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-02"
+      }
+    },
+    {
+      "id": "wikipedia:infrastructure_damage:68a2bc4b32af",
+      "type": "infrastructure_damage",
+      "lat": 25.925,
+      "lon": 51.533,
+      "timestamp": 1772452800000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "QatarEnergy halts all LNG production at Ras Laffan after drone attack",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-02",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "ras laffan",
+        "date": "2026-03-02"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:07bd8e79087b",
+      "type": "vessel_attack",
+      "lat": 23.588,
+      "lon": 58.382,
+      "timestamp": 1772366400000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "MKD Vyom (crude tanker) struck by projectile off Muscat — 1 crew killed",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-01",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "muscat",
+        "date": "2026-03-01"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:6100ce6caeb1",
+      "type": "vessel_attack",
+      "lat": 26.225,
+      "lon": 50.578,
+      "timestamp": 1772366400000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Stena Imperative (US-flagged tanker) struck at port of Bahrain — fire, 1 killed",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-01",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "bahrain",
+        "date": "2026-03-01"
+      }
+    },
+    {
+      "id": "wikipedia:news:af9a724e122c",
+      "type": "news",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772366400000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "7 of 12 P&I Clubs cancel war risk coverage for Hormuz",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-03-01",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 3,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-03-01"
+      }
+    },
+    {
+      "id": "wikipedia:incident:5793894a4404",
+      "type": "incident",
+      "lat": 35.689,
+      "lon": 51.389,
+      "timestamp": 1772280000000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "US-Israel joint strikes begin (Operation Epic Fury / Lion's Roar)",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-02-28",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "tehran",
+        "date": "2026-02-28"
+      }
+    },
+    {
+      "id": "wikipedia:incident:34d214d715ae",
+      "type": "incident",
+      "lat": 35.689,
+      "lon": 51.389,
+      "timestamp": 1772280000000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Iran Supreme Leader Khamenei killed in strikes",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-02-28",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 5,
+      "data": {
+        "location": "tehran",
+        "date": "2026-02-28"
+      }
+    },
+    {
+      "id": "wikipedia:incident:fdd0a8f10712",
+      "type": "incident",
+      "lat": 26,
+      "lon": 52,
+      "timestamp": 1772280000000,
+      "source": "wikipedia",
+      "confidence": "verified",
+      "title": "Iran retaliates with missiles and drones on US bases and Gulf states",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-02-28",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "persian gulf",
+        "date": "2026-02-28"
+      }
+    },
+    {
+      "id": "wikipedia:vessel_attack:b622905a1d80",
+      "type": "vessel_attack",
+      "lat": 26.56,
+      "lon": 56.25,
+      "timestamp": 1772280000000,
+      "source": "wikipedia",
+      "confidence": "high",
+      "title": "At least 3 tankers struck near Strait of Hormuz",
+      "description": "Key event from 2026 Strait of Hormuz crisis timeline. Date: 2026-02-28",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "severity": 4,
+      "data": {
+        "location": "strait of hormuz",
+        "date": "2026-02-28"
+      }
+    }
+  ]
+}
